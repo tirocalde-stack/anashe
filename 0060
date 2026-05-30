@@ -1,4 +1,4 @@
-#EXTM3U  refresh="0.01" x-tvg-url="https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-epg.com/files/chile1.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/guatemala1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/venezuela1.xml https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/peru3.xml,https://www.open-epg.com/files/peru2.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
+#EXTM3U  refresh="0.01" url-"https://raw.githubusercontent.com/dvds1151/AR-TV/refs/heads/main/epg/artv-guide.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-epg.com/files/chile1.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/chile1.xml,https://www.open-epg.com/files/guatemala1.xml,https://www.open-epg.com/files/chile2.xml,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil2.xml,https://www.open-epg.com/files/brazil4.xml,https://www.open-epg.com/files/brazil5.xml,https://www.open-epg.com/files/venezuela1.xml https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/peru3.xml,https://www.open-epg.com/files/peru2.xml,https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia1.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
 
 
 
@@ -1676,306 +1676,401 @@ http://181.13.252.102:8000/play/a05e/index.m3u8
 http://181.13.252.102:8000/play/a02h/index.m3u8
 
 
-#EXTINF:11 tvg-id="Canal26.ar" group-title="ASTRA ARGENTINA 5",Canal 26
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="ASTRA ARGENTINA 5",Canal 26
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01r/index.m3u8?hls
-#EXTINF:0 tvg-id="Canal9.ar" group-title="ASTRA ARGENTINA 5",Canal 9
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="Canal 9" group-title="ASTRA ARGENTINA 5",Canal 9
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0bl/index.m3u8?hls
-#EXTINF:0 tvg-id="AELatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",A&E
+
+#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E" group-title="ASTRA ARGENTINA 5",A&E
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05i/index.m3u8?hls
-#EXTINF:0 tvg-id="A24.ar" group-title="ASTRA ARGENTINA 5",A24
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="ASTRA ARGENTINA 5",A24
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
-#EXTINF:0 tvg-id="AmericaSports.ar" group-title="ASTRA ARGENTINA 5",América Sports
+
+#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-name="América Sports" group-title="ASTRA ARGENTINA 5",América Sports
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01v/index.m3u8?hls
-#EXTINF:0 tvg-id="AMCLatinAmerica.us" group-title="ASTRA ARGENTINA 5",AMC
+
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC" group-title="ASTRA ARGENTINA 5",AMC
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01z/index.m3u8?hls
-#EXTINF:0 tvg-id="AmericaTV.ar" group-title="ASTRA ARGENTINA 5",América TV
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV" group-title="ASTRA ARGENTINA 5",América TV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a055/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#axn" group-title="ASTRA ARGENTINA 5",AXN
+
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN" group-title="ASTRA ARGENTINA 5",AXN
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05f/index.m3u8?hls
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="ASTRA ARGENTINA 5",BabyTV
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" group-title="ASTRA ARGENTINA 5",BabyTV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02e/index.m3u8?hls
-#EXTINF:0 tvg-id="C5N.ar" group-title="ASTRA ARGENTINA 5",C5N
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="ASTRA ARGENTINA 5",C5N
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01p/index.m3u8?hls
-#EXTINF:0 tvg-id="CanalA.ar" group-title="ASTRA ARGENTINA 5",Canal á
+
+#EXTINF:-1 tvg-id="CanalA.ar" tvg-name="Canal á" group-title="ASTRA ARGENTINA 5",Canal á
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a09j/index.m3u8?hls
-#EXTINF:0 tvg-id="CanaldelaCiudad.ar" group-title="ASTRA ARGENTINA 5",Canal de la Ciudad
+
+#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-name="Canal de la Ciudad" group-title="ASTRA ARGENTINA 5",Canal de la Ciudad
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06e/index.m3u8?hls
-#EXTINF:0 tvg-id="CanalLuz.ar" group-title="ASTRA ARGENTINA 5",Canal Luz
+
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-name="Canal Luz" group-title="ASTRA ARGENTINA 5",Canal Luz
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0bi/index.m3u8?hls
-#EXTINF:0 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlantic" group-title="ASTRA ARGENTINA 5",Cartoon Network
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network" group-title="ASTRA ARGENTINA 5",Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a075/index.m3u8?hls
-#EXTINF:0 tvg-id="CineAr.ar" group-title="ASTRA ARGENTINA 5",CineAr
+
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="CineAr" group-title="ASTRA ARGENTINA 5",CineAr
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a024/index.m3u8?hls
-#EXTINF:0 tvg-id="Cinecanal.us@Panregional" group-title="ASTRA ARGENTINA 5",Cinecanal
+
+#EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" group-title="ASTRA ARGENTINA 5",Cinecanal
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a07b/index.m3u8?hls
-#EXTINF:0 tvg-id="CinemaxLatinAmerica.us" group-title="ASTRA ARGENTINA 5",Cinemax
+
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax" group-title="ASTRA ARGENTINA 5",Cinemax
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a04s/index.m3u8?hls
-#EXTINF:0 tvg-id="CiudadMagazine.ar" group-title="ASTRA ARGENTINA 5",Ciudad Magazine
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" group-title="ASTRA ARGENTINA 5",Ciudad Magazine
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02h/index.m3u8?hls
-#EXTINF:0 tvg-id="CNNenEspanol.us" group-title="ASTRA ARGENTINA 5",CNN en Español
+
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Español" group-title="ASTRA ARGENTINA 5",CNN en Español
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a054/index.m3u8?hls
-#EXTINF:0 tvg-id="ComedyCentralLatinAmerica.us@Panregional" group-title="ASTRA ARGENTINA 5",Comedy Central
+
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central" group-title="ASTRA ARGENTINA 5",Comedy Central
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02x/index.m3u8?hls
-#EXTINF:0 tvg-id="CronicaTV.ar" group-title="ASTRA ARGENTINA 5",Cronica
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica" group-title="ASTRA ARGENTINA 5",Cronica
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01q/index.m3u8?hls
-#EXTINF:0 tvg-id="DeporTV.ar" group-title="ASTRA ARGENTINA 5",DeporTV
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="ASTRA ARGENTINA 5",DeporTV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06h/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryChannelLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",Discovery Channel
+
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel" group-title="ASTRA ARGENTINA 5",Discovery Channel
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a07i/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" group-title="ASTRA ARGENTINA 5",Discovery Home & Health
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-name="Discovery Home & Health" group-title="ASTRA ARGENTINA 5",Discovery Home & Health
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a07h/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional" group-title="ASTRA ARGENTINA 5",Discovery Kids
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids" group-title="ASTRA ARGENTINA 5",Discovery Kids
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06t/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryScienceLatinAmerica.us" group-title="ASTRA ARGENTINA 5",Discovery Science
+
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science" group-title="ASTRA ARGENTINA 5",Discovery Science
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02k/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryTheaterLatinAmerica.us" group-title="ASTRA ARGENTINA 5",Discovery Theater
+
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater" group-title="ASTRA ARGENTINA 5",Discovery Theater
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02z/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryTurboLatinAmerica.us@Panregional" group-title="ASTRA ARGENTINA 5",Discovery Turbo
+
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us" tvg-name="Discovery Turbo" group-title="ASTRA ARGENTINA 5",Discovery Turbo
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01w/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryWorld.us@LatinAmerica" group-title="ASTRA ARGENTINA 5",Discovery World
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="ASTRA ARGENTINA 5",Discovery World
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a031/index.m3u8?hls
-#EXTINF:0 tvg-id="DisneyChannelLatinAmerica.ar@South" group-title="ASTRA ARGENTINA 5",Disney Channel
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel" group-title="ASTRA ARGENTINA 5",Disney Channel
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02r/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#disney-jr" group-title="ASTRA ARGENTINA 5",Disney Junior
+
+#EXTINF:-1 tvg-id="DisneyJuniorLatinAmerica.us" tvg-name="Disney Junior" group-title="ASTRA ARGENTINA 5",Disney Junior
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a04y/index.m3u8?hls
-#EXTINF:0 tvg-id="ELatinAmerica.us@Andes" group-title="ASTRA ARGENTINA 5",E!
+
+#EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E!" group-title="ASTRA ARGENTINA 5",E!
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a050/index.m3u8?hls
-#EXTINF:0 tvg-id="LasEstrellasLatinAmerica.mx" group-title="ASTRA ARGENTINA 5",Las Estrellas
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" group-title="ASTRA ARGENTINA 5",Las Estrellas
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06z/index.m3u8?hls
-#EXTINF:0 tvg-id="ElGourmet.ar@South" group-title="ASTRA ARGENTINA 5",El Gourmet
+
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="ASTRA ARGENTINA 5",El Gourmet
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06w/index.m3u8?hls
-#EXTINF:0 tvg-id="ElNueve.ar" group-title="ASTRA ARGENTINA 5",Canal 9
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="Canal 9" group-title="ASTRA ARGENTINA 5",Canal 9 (El Nueve)
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a04h/index.m3u8?hls
-#EXTINF:0 tvg-id="ElTrece.ar" group-title="ASTRA ARGENTINA 5",Canal 13
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="Canal 13" group-title="ASTRA ARGENTINA 5",Canal 13
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
-#EXTINF:0 tvg-id="Encuentro.ar" group-title="ASTRA ARGENTINA 5",Encuentro
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" group-title="ASTRA ARGENTINA 5",Encuentro
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01m/index.m3u8?hls
-#EXTINF:0 tvg-id="Enlace.us" group-title="ASTRA ARGENTINA 5",Enlace
+
+#EXTINF:-1 tvg-id="Enlace.us" tvg-name="Enlace" group-title="ASTRA ARGENTINA 5",Enlace
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0bh/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#espn" group-title="ASTRA ARGENTINA 5",ESPN
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" group-title="ASTRA ARGENTINA 5",ESPN
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05a/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#espn-2" group-title="ASTRA ARGENTINA 5",ESPN 2
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2" group-title="ASTRA ARGENTINA 5",ESPN 2
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a059/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#espn-3" group-title="ASTRA ARGENTINA 5",ESPN 3
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3" group-title="ASTRA ARGENTINA 5",ESPN 3
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05b/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#espn-4" group-title="ASTRA ARGENTINA 5",ESPN 4
+
+#EXTINF:-1 tvg-id="ESPN4.ar" tvg-name="ESPN 4" group-title="ASTRA ARGENTINA 5",ESPN 4
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a076/index.m3u8?hls
-#EXTINF:0 tvg-id="ESPNPremium.ar" group-title="ASTRA ARGENTINA 5" ESPNPremium.ar
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="ASTRA ARGENTINA 5",ESPN Premium
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a078/index.m3u8?hls
-#EXTINF:0 tvg-id="EuropaEuropa.ar" group-title="ASTRA ARGENTINA 5",Europa Europa
+
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="ASTRA ARGENTINA 5",Europa Europa
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06v/index.m3u8?hls
-#EXTINF:0 tvg-id="FilmArts.ar@Panregional" group-title="ASTRA ARGENTINA 5",film&arts
+
+#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="film&arts" group-title="ASTRA ARGENTINA 5",film&arts
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a030/index.m3u8?hls
-#EXTINF:0 tvg-id="FoxSports2.ar" group-title="ASTRA ARGENTINA 5",FOX Sports 2
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" group-title="ASTRA ARGENTINA 5",FOX Sports 2
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05c/index.m3u8?hls
-#EXTINF:0 tvg-id="FoxSports3LatinAmerica.us@Panregional" group-title="ASTRA ARGENTINA 5",FOX Sports 3
+
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-name="FOX Sports 3" group-title="ASTRA ARGENTINA 5",FOX Sports 3
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02t/index.m3u8?hls
-#EXTINF:0 tvg-id="FoxSports.ar" group-title="ASTRA ARGENTINA 5",FOX Sports HD
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports HD" group-title="ASTRA ARGENTINA 5",FOX Sports HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a07j/index.m3u8?hls
-#EXTINF:0 tvg-id="FXLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",FX
+
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX" group-title="ASTRA ARGENTINA 5",FX
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02v/index.m3u8?hls
-#EXTINF:0 tvg-id="GaliciaTVAmerica.es" group-title="ASTRA ARGENTINA 5",Galicia TV
+
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-name="Galicia TV" group-title="ASTRA ARGENTINA 5",Galicia TV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02q/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#hbo" group-title="ASTRA ARGENTINA 5",HBO
+
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" group-title="ASTRA ARGENTINA 5",HBO
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06o/index.m3u8?hls
-#EXTINF:0 tvg-id="HBO2LatinAmerica.us" group-title="ASTRA ARGENTINA 5",HBO 2
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2" group-title="ASTRA ARGENTINA 5",HBO 2
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06q/index.m3u8?hls
-#EXTINF:0 tvg-id="HBOFamilyLatinAmerica.us" group-title="ASTRA ARGENTINA 5",HBO Family
+
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family" group-title="ASTRA ARGENTINA 5",HBO Family
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06r/index.m3u8?hls
-#EXTINF:0 tvg-id="HBOMundiLatinAmerica.us" group-title="ASTRA ARGENTINA 5",HBO Mundi
+
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi" group-title="ASTRA ARGENTINA 5",HBO Mundi
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02a/index.m3u8?hls
-#EXTINF:0 tvg-id="HBOPlusLatinAmerica.us" group-title="ASTRA ARGENTINA 5",HBO Plus (Panamericano HD)
+
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus (Panamericano HD)" group-title="ASTRA ARGENTINA 5",HBO Plus (Panamericano HD)
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06p/index.m3u8?hls
-#EXTINF:0 tvg-id="HBOSignatureLatinAmerica.us" group-title="ASTRA ARGENTINA 5",HBO Signature
+
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature" group-title="ASTRA ARGENTINA 5",HBO Signature
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02c/index.m3u8?hls
-#EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" group-title="ASTRA ARGENTINA 5",HBO Xtreme
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme" group-title="ASTRA ARGENTINA 5",HBO Xtreme
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02b/index.m3u8?hls
-#EXTINF:0 tvg-id="HGTVLatinAmerica.us@Panregional" group-title="ASTRA ARGENTINA 5",HGTV
+
+#EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-name="HGTV" group-title="ASTRA ARGENTINA 5",HGTV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02j/index.m3u8?hls
-#EXTINF:0 tvg-id="History2LatinAmerica.us@Panregional" group-title="ASTRA ARGENTINA 5",History 2
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2" group-title="ASTRA ARGENTINA 5",History 2
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0ab/index.m3u8?hls
-#EXTINF:0 tvg-id="HistoryLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",History
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History" group-title="ASTRA ARGENTINA 5",History
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a051/index.m3u8?hls
-#EXTINF:0 tvg-id="HTV.us" group-title="ASTRA ARGENTINA 5",HTV
+
+#EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" group-title="ASTRA ARGENTINA 5",HTV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02o/index.m3u8?hls
-#EXTINF:0 tvg-id="LaNacionPlus.ar" group-title="ASTRA ARGENTINA 5",LN+
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" group-title="ASTRA ARGENTINA 5",LN+
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01s/index.m3u8?hls
-#EXTINF:0 tvg-id="LaTele.ve" group-title="ASTRA ARGENTINA 5",La Tele
+
+#EXTINF:-1 tvg-id="LaTele.ve" tvg-name="La Tele" group-title="ASTRA ARGENTINA 5",La Tele
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0a8/index.m3u8?hls
-#EXTINF:0 tvg-id="LifetimeLatinAmerica.us@Panregional" group-title="ASTRA ARGENTINA 5",Lifetime
+
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime" group-title="ASTRA ARGENTINA 5",Lifetime
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06n/index.m3u8?hls
-#EXTINF:0 tvg-id="Metro.ar" group-title="ASTRA ARGENTINA 5",Metro
+
+#EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro" group-title="ASTRA ARGENTINA 5",Metro
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02g/index.m3u8?hls
-#EXTINF:0 tvg-id="MTVLatinAmerica.us@Panregional" group-title="ASTRA ARGENTINA 5",MTV
+
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV" group-title="ASTRA ARGENTINA 5",MTV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02m/index.m3u8?hls
-#EXTINF:0 tvg-id="MTV00s.uk" group-title="ASTRA ARGENTINA 5",MTV 00s
+
+#EXTINF:-1 tvg-id="MTV00s.uk" tvg-name="MTV 00s" group-title="ASTRA ARGENTINA 5",MTV 00s
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a053/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#fox-hd" group-title="ASTRA ARGENTINA 5",Star Channel HD
+
+#EXTINF:-1 tvg-id="StarChannelHD.ar" tvg-name="Star Channel HD" group-title="ASTRA ARGENTINA 5",Star Channel HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05g/index.m3u8?hls
-#EXTINF:0 tvg-id="NickJrLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",Nick Jr.
+
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr." group-title="ASTRA ARGENTINA 5",Nick Jr.
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06u/index.m3u8?hls
-#EXTINF:0 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="ASTRA ARGENTINA 5",Nick
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nick" group-title="ASTRA ARGENTINA 5",Nick
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a04z/index.m3u8?hls
-#EXTINF:0 tvg-id="NuevoTiempo.cl" group-title="ASTRA ARGENTINA 5",Nuevo Tiempo
+
+#EXTINF:-1 tvg-id="NuevoTiempo.cl" tvg-name="Nuevo Tiempo" group-title="ASTRA ARGENTINA 5",Nuevo Tiempo
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0bj/index.m3u8?hls
-#EXTINF:0 tvg-id="Pakapaka.ar" group-title="ASTRA ARGENTINA 5",Pakapaka
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="ASTRA ARGENTINA 5",Pakapaka
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a01n/index.m3u8?hls
-#EXTINF:0 tvg-id="ParamountNetworkLatinAmerica.us@Panregional" group-title="ASTRA ARGENTINA 5",Paramount Network
+
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="Paramount Network" group-title="ASTRA ARGENTINA 5",Paramount Network
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02y/index.m3u8?hls
-#EXTINF:0 tvg-id="QuieroMusicaenmiIdioma.ar" group-title="ASTRA ARGENTINA 5",Quiero Música en mi Idioma
+
+#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-name="Quiero" group-title="ASTRA ARGENTINA 5",Quiero Música en mi Idioma
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02n/index.m3u8?hls
-#EXTINF:0 tvg-id="RaiItaliaAmerica.it" group-title="ASTRA ARGENTINA 5",Rai Italia
+
+#EXTINF:-1 tvg-id="RaiItaliaAmerica.it" tvg-name="Rai Italia" group-title="ASTRA ARGENTINA 5",Rai Italia
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02p/index.m3u8?hls
-#EXTINF:0 tvg-id="RTenEspanol.ru" group-title="ASTRA ARGENTINA 5",RT en Español
+
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="Russia Today HD" group-title="ASTRA ARGENTINA 5",RT en Español
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0ac/index.m3u8?hls
-#EXTINF:0 tvg-id="CanalRural.ar" group-title="ASTRA ARGENTINA 5",Canal Rural
+
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-name="Canal Rural" group-title="ASTRA ARGENTINA 5",Canal Rural
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02f/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#sony-hd" group-title="ASTRA ARGENTINA 5",Sony HD
+
+#EXTINF:-1 tvg-id="SonyHD.ar" tvg-name="Sony HD" group-title="ASTRA ARGENTINA 5",Sony HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05d/index.m3u8?hls
-#EXTINF:0 tvg-id="SonyMovies.us" group-title="ASTRA ARGENTINA 5",Sony Movies
+
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies" group-title="ASTRA ARGENTINA 5",Sony Movies
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05k/index.m3u8?hls
-#EXTINF:0 tvg-id="SpaceLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",Space
+
+#EXTINF:-1 tvg-id="SpaceLatinAmerica.us" tvg-name="Space" group-title="ASTRA ARGENTINA 5",Space
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02w/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#fox-hd" group-title="ASTRA ARGENTINA 5",Star Channel HD
+
+#EXTINF:-1 tvg-id="StarChannelHD.ar" tvg-name="Star Channel HD" group-title="ASTRA ARGENTINA 5",Star Channel HD (2)
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a079/index.m3u8?hls
-#EXTINF:0 tvg-id="StudioUniversalLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",Studio Universal
+
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-name="Studio Universal" group-title="ASTRA ARGENTINA 5",Studio Universal
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a022/index.m3u8?hls
-#EXTINF:0 tvg-id="TCMLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",TCM
+
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us" tvg-name="TCM" group-title="ASTRA ARGENTINA 5",TCM
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a020/index.m3u8?hls
-#EXTINF:11 tvg-id="Telefe.ar" group-title="ASTRA ARGENTINA 5",Telefe
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="ASTRA ARGENTINA 5",Telefe
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a06c/index.m3u8?hls
-#EXTINF:0 tvg-id="HistoryLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",History
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History" group-title="ASTRA ARGENTINA 5",History (2)
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05h/index.m3u8?hls
-#EXTINF:0 tvg-id="TLNovelas.mx" group-title="ASTRA ARGENTINA 5",TLNovelas
+
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TLNovelas" group-title="ASTRA ARGENTINA 5",TLNovelas
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0bm/index.m3u8?hls
-#EXTINF:0 tvg-id="TN.ar" group-title="ASTRA ARGENTINA 5",TN
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="ASTRA ARGENTINA 5",TN
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a058/index.m3u8?hls
-#EXTINF:0 tvg-id="TNTLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",TNT
+
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us" tvg-name="TNT" group-title="ASTRA ARGENTINA 5",TNT
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a07d/index.m3u8?hls
-#EXTINF:0 tvg-id="TNTNovelas.us" group-title="ASTRA ARGENTINA 5",TNT Novelas
+
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="ASTRA ARGENTINA 5",TNT Novelas
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a07g/index.m3u8?hls
-#EXTINF:0 tvg-id="TNTSeries.us@South" group-title="ASTRA ARGENTINA 5",TNT Series
+
+#EXTINF:-1 tvg-id="TNTSeries.us" tvg-name="TNT Series" group-title="ASTRA ARGENTINA 5",TNT Series
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a07e/index.m3u8?hls
-#EXTINF:0 tvg-id="TNTSports.ar" group-title="ASTRA ARGENTINA 5",TNT Sports
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" group-title="ASTRA ARGENTINA 5",TNT Sports
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#canal-7-hd" group-title="ASTRA ARGENTINA 5",Televisión Pública
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="Televisión Pública" group-title="ASTRA ARGENTINA 5",Televisión Pública
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a056/index.m3u8?hls
-#EXTINF:0 tvg-id="TVEInternacionalEuropa.es" group-title="ASTRA ARGENTINA 5",TVE Internacional
+
+#EXTINF:-1 tvg-id="TVEInternacionalEuropa.es" tvg-name="TVE" group-title="ASTRA ARGENTINA 5",TVE Internacional
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a072/index.m3u8?hls
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="ASTRA ARGENTINA 5",TyC Sports
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="ASTRA ARGENTINA 5",TyC Sports
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
-#EXTINF:0 tvg-id="UniversalTVLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",Universal TV
+
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us" tvg-name="Universal TV" group-title="ASTRA ARGENTINA 5",Universal TV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05j/index.m3u8?hls
-#EXTINF:0 tvg-id="USANetworkLatinAmerica.us" group-title="ASTRA ARGENTINA 5",USA Network
+
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-name="USA Network" group-title="ASTRA ARGENTINA 5",USA Network
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a023/index.m3u8?hls
-#EXTINF:0 tvg-id="Volver.ar" group-title="ASTRA ARGENTINA 5",Volver
+
+#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" group-title="ASTRA ARGENTINA 5",Volver
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a021/index.m3u8?hls
-#EXTINF:0 tvg-id="VTV.uy" group-title="ASTRA ARGENTINA 5",VTV
+
+#EXTINF:-1 tvg-id="VTV.uy" tvg-name="VTV" group-title="ASTRA ARGENTINA 5",VTV
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a0aa/index.m3u8?hls
-#EXTINF:0 tvg-id="WarnerChannelLatinAmerica.us@South" group-title="ASTRA ARGENTINA 5",Warner Channel
+
+#EXTINF:-1 tvg-id="WarnerChannelLatinAmerica.us" tvg-name="Warner Channel" group-title="ASTRA ARGENTINA 5",Warner Channel
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a05e/index.m3u8?hls
-
-
-
 
 
 
