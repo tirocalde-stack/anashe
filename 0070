@@ -9816,303 +9816,2565 @@ http://200.59.188.3:8000/play/a12m
 http://200.59.188.3:8000/play/a194
 
 
+#EXTM3U
 
-#EXTINF:11 tvg-id="Canal26.ar" group-title="MultiEPG LATAM",Canal 26
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="IP Informacion Periodistica",IP Informacion Periodistica
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a06g/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Paka Paka",Paka Paka
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a06h/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Golden",Golden
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a06i/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Cinemax",Cinemax
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a06j/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Food Network",Discovery Food
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a06k/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="A24",A24
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a034/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="AMC",AMC
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04t/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="AMC Series",AMC SERIES
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a050/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="AXN",AXN
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04r/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="AZ Corazón",AZ CORAZON
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05d/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="América TV",America TV
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03b/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Animal Planet",Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05q/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Argentinísima Satelital",Argentinisima
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05w/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="A&E",AyE
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04n/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Bolivia TV",BOLIVIA TV
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a068/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Bolivisión",BOLIVISION
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a067/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="C5N",C5N
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a035/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal á",CANAL A
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a062/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal de las Estrellas",CANAL DE LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05b/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Caracol Internacional",CARACOL
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a059/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Caras TV",CARAS tv
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05a/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="CINE.AR",CINE.AR
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04y/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="CM El Canal de la Música",CM
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a060/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="CNN en Español",CNN ESP
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a06b/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Comodines",COMODINES
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a06f/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal 26",Canal 26
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a036/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal 7",Canal 7
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03c/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal Luz",Canal Luz
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05y/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Cartoon Network",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03w/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Cartoonito",Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a041/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Cinecanal",Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04b/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Comedy Central",Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04o/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Crónica TV",Cronica
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a037/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="DHE",DHE
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04u/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Channel",DISCOVERY CH
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05i/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Home & Health",DISCOVERY H&H
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05j/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="DTV",DTV
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a06a/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Investigation Discovery",Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05k/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Kids",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03v/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Science",Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05l/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TLC",Discovery TCL
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05m/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Turbo",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05n/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery World",Discovery Word
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05o/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Disney Channel",Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03z/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Disney Junior",Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03u/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="E! Entertainment",E!
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05f/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="ESPN",ESPN
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03i/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="ESPN 2",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03j/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="ESPN 3",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03k/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="ESPN 4",ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03l/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="ESPN Premium",ESPN PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03m/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Estrella TV",ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a063/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Eurochannel",EURO CH
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a052/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Europa Europa",EUROPA
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04w/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Eventos",EVENTOS
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a06c/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="EWTN",EWTN
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a061/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="El Gourmet",El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05p/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="El Nueve",El Nueve
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03d/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="El Trece",El Trece
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03e/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Encuentro",Encuentro
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05s/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Fox Sports",FOX SPORTS
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03n/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Fox Sports 2",FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03o/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Fox Sports 3",FOX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03p/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="FX",FX
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04q/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Film & Arts",Film & arts HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04a/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Golden",GOLDEN
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04z/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="El Garage TV",Garage TV
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03q/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO",HBO
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a043/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO Family",HBO Family
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a047/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO Mundi",HBO Mund
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a049/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO Pop",HBO POP
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a046/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO Plus",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a048/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO Xtreme",HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a045/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO 2",HBO2
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a044/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HTV",HTV
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05z/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="History",History
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05r/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="History 2",History2
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05v/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Lifetime",LIFE TIME
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a054/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="LN+",LN+
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a038/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="La Voz de María",La voz de maria
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05u/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Ciudad Magazine",MAGAZINE
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a064/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Multipremier",MULTIPREMIER
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04s/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="National Geographic",Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05t/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Nick Jr.",Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03x/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Nickelodeon",Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a040/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="RCN Novelas",RCN NOVELAS
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05c/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Red Uno",RED UNO
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a066/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal Rural",RURAL
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05g/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Sony Channel",SONY
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04c/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Sony Movies",SONY MOVIES
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04d/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Space",SPACE
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04f/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Star Channel",STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04e/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Studio Universal",STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a051/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Sun Channel",SUN CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a055/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TCM",TCM
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04i/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Telefe",TELEFE
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03f/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Telemundo",TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05e/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TLNovelas",TELENOVELAS
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a057/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TN Todo Noticias",TN
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a039/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TNT",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04h/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TNT Novelas",TNT NOVELAS
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a058/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TNT Sports",TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03r/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TNT Series",TNT Series
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04j/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TV Pando",TV PANDO
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a069/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TV Sucre",TV SUCRE
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a056/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Televisión Pública",Tv Publica
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03g/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TyC Sports",TyC Sports
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03s/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Universal TV",UNIVERSAL tv
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04g/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="USA Network",USA NETWORK
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04v/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Volver",VOLVER
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04l/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="VOS TV",VOS tv
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04x/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Warner Channel",Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04m/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Ayni TV",ayni tv
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a065/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Cine",cine
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a042/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Cine 2",cine2
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a04p/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Deportes",deportes
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03h/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Documentales",documentales
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05h/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Infantiles",infantiles
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03t/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Nacionales",nacionales
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a033/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Nacionales 2",nacionales2
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a03a/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Novelas",novelas
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a053/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Variedades",variedades
+#EXTVLCOPT:network-caching=1000
+http://45.5.149.220:8000/play/a05x/index
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="A24",A24
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a006/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="C5N",C5N
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a007/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal 26",Canal 26
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a008/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Crónica TV",Cronica TV
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a009/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="LN+",La Nacion +
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00a/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TN Todo Noticias",TN
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00b/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="América TV",AMERICA TV
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00c/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="El Trece",EL TRECE
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00f/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="El Nueve",El Nueve
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00e/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Telefe",TELEFE
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00g/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Televisión Pública",TV PUBLICA
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00h/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal 7",canal7mls
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a03n/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal 7",canal7mlsmain
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a03o/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="ESPN",ESPN
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00i/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="ESPN 2",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00j/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="ESPN 3",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00k/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="ESPN 4",ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00l/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="ESPN Premium",ESPN PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00m/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Fox Sports",FOX SPORTS
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00n/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Fox Sports 2",FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00o/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Fox Sports 3",FOX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00p/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="El Garage TV",Garage tv
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00q/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TNT Sports",TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00r/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TyC Sports",TyC SPORTS
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00s/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Cartoon Network",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a005/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Cartoonito",Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02g/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Disney Junior",DISNEY JUNIOR HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00v/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Kids",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00t/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Disney Channel",Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00u/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Nick Jr.",Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00w/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Nickelodeon",Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00x/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Film & Arts",Film & arts HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00y/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO",HBO
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a00z/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO 2",HBO 2
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a010/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO Family",HBO Family
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a011/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO Mundi",HBO Mund
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a012/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO Pop",HBO POP
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a014/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO Plus",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a013/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HBO Xtreme",HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a015/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Sony Channel",SONY
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a016/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Sony Movies",SONY MOVIES
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02k/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Space",SPACE
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a017/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Star Channel",STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a018/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TNT",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a019/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Studio Universal",UNIVERSAL CINEMA
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02l/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Cinecanal",cinecanal
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02j/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="A&E",AyE
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01b/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Comedy Central",Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01c/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TCM",TCM
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02m/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TNT Series",TNT Series
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01d/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Volver",VOLVER
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02n/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Warner Channel",Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02o/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="AMC",AMC
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01e/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="AXN",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01f/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Cinemax",CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02i/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="DHE",DHE HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a03c/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="FX",FX HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01g/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Multipremier",Multipremier
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02p/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="USA Network",USA NETWORK
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01h/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="AMC Series",AMC SERIES
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01i/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="CINE.AR",Cine.ar
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01j/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Eurochannel",Euro Channel
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02s/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Europa Europa",Europa Europa
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01p/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Golden",Golden
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02r/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Studio Universal",STUDIO UNIVERSAL HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01k/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="VOS TV",VOS TV
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02q/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Caracol Internacional",CARACOL
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02w/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Caras TV",CarasTV
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02x/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Lifetime",Life Time
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02t/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Sun Channel",SUN CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01l/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TLNovelas",TLNovelas
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02v/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TNT Novelas",TNT Novelas
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01m/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TV Sucre",TV SUCRE
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02u/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="AZ Corazón",Azcorazon
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a030/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal de las Estrellas",Canal de las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02y/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="E! Entertainment",E Entertainment
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01n/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="RCN Novelas",RCN novelas
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a02z/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal Rural",Rural
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01r/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Telemundo",TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01q/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Channel",Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01s/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Home & Health",Discovery H&H
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01t/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Investigation Discovery",Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01u/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Science",Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01v/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TLC",Discovery TCL
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01w/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery Turbo",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a027/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Discovery World",Discovery Word
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01x/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Animal Planet",Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a003/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Argentinísima Satelital",Argentinisima
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01y/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="El Gourmet",El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a01z/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Encuentro",Encuentro
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a020/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="History 2",H2
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a03k/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="History",HISTORY
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a021/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="National Geographic",NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a022/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal Luz",CANAL LUZ
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a037/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="CM El Canal de la Música",CM
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a023/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Canal á",Canal a
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a032/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Ciudad Magazine",Ciudad Magazine
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a03i/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="EWTN",EWTN
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a031/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Estrella TV",Estrella tv
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a03j/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="HTV",HTV
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a024/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Ayni TV",Ayni TV
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a034/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Bolivia TV",Bolivia Tv
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a038/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Bolivisión",Bolivision
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a036/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="CNN en Español",CNN Espa ol
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a026/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Red DTV",RED DTV
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a03a/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Red Uno",RED UNO SCZ
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a035/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="TV Pando",TVPANDO
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a039/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="La Voz de María",La voz de Maria
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a03f/index.m3u8?hls
+
+#EXTINF:-1 group-title="ASTRA ARGENTINA 6" tvg-name="Tooncast",Tooncast
+#EXTVLCOPT:network-caching=1000
+http://45.5.151.147:8000/play/a028/index.m3u8?hls
+
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN
+http://190.60.32.178:8178/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN
+http://204.157.232.39:53200/play/a0a0
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN
+http://217.26.190.76:8888/play/a0ee/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN
+http://217.26.190.76:8888/play/a0gb/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN2
+http://217.26.190.76:8888/play/a0kp/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN3
+http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN3
+http://217.26.190.76:8888/play/a0k0/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN4
+http://190.60.32.178:8178/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN4
+http://217.26.190.76:8888/play/a0jy/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN5
+http://217.26.190.76:8888/play/a0kh/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN6
+http://190.60.32.178:8178/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN6
+http://217.26.190.76:8888/play/a0fa/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN7
+http://190.60.32.178:8178/play/a0hs/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS", ESPN7
+http://217.26.190.76:8888/play/a0g2/index.m3u8
+#EXTINF:11 group-title="ESPN VARIOS",ESPN HD
+http://177.53.153.207:8000/play/a00j/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
+http://181.209.105.115:2525/play/espn2/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3 HD
+http://181.209.105.115:2525/play/espn3/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4 HD
+http://181.209.105.115:2525/play/espn4/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://200.10.30.241:8000/play/a0b1/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://200.10.30.241:8000/play/a01k/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5HD
+#EXTVLCOPT:network-caching=1000
+http://200.10.30.241:8000/play/a0aw/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6HD
+#EXTVLCOPT:network-caching=1000
+http://200.10.30.241:8000/play/a074/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 7HD
+#EXTVLCOPT:network-caching=1000
+http://200.10.30.241:8000/play/a06u/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",8_ESPN_2
+#EXTVLCOPT:network-caching=1000
+http://45.173.74.2:2010/play/a091/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",8_ESPN_3
+#EXTVLCOPT:network-caching=1000
+http://45.173.74.2:2010/play/a092/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",8_ESPN_4
+#EXTVLCOPT:network-caching=1000
+http://45.173.74.2:2010/play/a093/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",8_ESPN_5
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01r/index.m3u8?hls
-#EXTINF:0 tvg-id="ElNueve.ar" group-title="MultiEPG LATAM",Canal 9
+http://45.173.74.2:2010/play/a094/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",8_ESPN_6
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bl/index.m3u8?hls
-#EXTINF:0 tvg-id="AELatinAmerica.us@South" group-title="MultiEPG LATAM",A&E
+http://45.173.74.2:2010/play/a095/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",8_ESPN_7
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05i/index.m3u8?hls
-#EXTINF:0 tvg-id="A24.ar" group-title="MultiEPG LATAM",A24
+http://45.173.74.2:2010/play/a096/index.m3u8
+#EXTINF:11 group-title="ESPN VARIOS",ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01o/index.m3u8?hls
-#EXTINF:0 tvg-id="AmericaSports.ar" group-title="MultiEPG LATAM",América Sports
+http://200.10.30.241:8000/play/a03c/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
+http://177.53.153.207:8000/play/a00i/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01v/index.m3u8?hls
-#EXTINF:0 tvg-id="AMCLatinAmerica.us" group-title="MultiEPG LATAM",AMC
+http://177.53.153.207:8000/play/a00k/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01z/index.m3u8?hls
-#EXTINF:0 tvg-id="AmericaTV.ar" group-title="MultiEPG LATAM",América TV
+http://177.53.153.207:8000/play/a00v/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a055/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#axn" group-title="MultiEPG LATAM",AXN
+http://181.205.130.194:4000/play/a07j
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05f/index.m3u8?hls
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="MultiEPG LATAM",BabyTV
+http://181.205.130.194:4000/play/a0fe
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02e/index.m3u8?hls
-#EXTINF:0 tvg-id="C5N.ar" group-title="MultiEPG LATAM",C5N
+http://181.205.130.194:4000/play/a0e5
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 Latin
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01p/index.m3u8?hls
-#EXTINF:0 tvg-id="CanalA.ar" group-title="MultiEPG LATAM",Canal á
+http://181.205.130.194:4000/play/a07i
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a09j/index.m3u8?hls
-#EXTINF:0 tvg-id="CanaldelaCiudad.ar" group-title="MultiEPG LATAM",Canal de la Ciudad
+http://181.205.130.194:4000/play/a085
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06e/index.m3u8?hls
-#EXTINF:0 tvg-id="CanalLuz.ar" group-title="MultiEPG LATAM",Canal Luz
+http://181.205.130.194:4000/play/a0fs
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bi/index.m3u8?hls
-#EXTINF:0 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlantic" group-title="MultiEPG LATAM",Cartoon Network
+http://181.205.130.194:4000/play/a0fq
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a075/index.m3u8?hls
-#EXTINF:0 tvg-id="CineAr.ar" group-title="MultiEPG LATAM",CineAr
+http://181.205.130.194:4000/play/a0eh
+#EXTINF:0 group-title="ESPN VARIOS",ESPN CO
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a024/index.m3u8?hls
-#EXTINF:0 tvg-id="Cinecanal.ar" group-title="MultiEPG LATAM",Cinecanal
+http://181.205.130.194:4000/play/a08n
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07b/index.m3u8?hls
-#EXTINF:0 tvg-id="CinemaxLatinAmerica.us" group-title="MultiEPG LATAM",Cinemax
+http://181.205.130.194:4000/play/a0fh
+#EXTINF:0 group-title="ESPN VARIOS",ESPN
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04s/index.m3u8?hls
-#EXTINF:0 tvg-id="CiudadMagazine.ar" group-title="MultiEPG LATAM",Ciudad Magazine
+http://190.117.20.39:8000/play/a05v/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02h/index.m3u8?hls
-#EXTINF:0 tvg-id="CNNenEspanol.us" group-title="MultiEPG LATAM",CNN en Español
+http://190.117.20.39:8000/play/a0ca/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 Latin
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a054/index.m3u8?hls
-#EXTINF:0 tvg-id="ComedyCentral.ar" group-title="MultiEPG LATAM",Comedy Central
+http://190.117.20.39:8000/play/a05u/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02x/index.m3u8?hls
-#EXTINF:0 tvg-id="CronicaTV.ar" group-title="MultiEPG LATAM",Cronica
+http://190.117.20.39:8000/play/a07t/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01q/index.m3u8?hls
-#EXTINF:0 tvg-id="DeporTV.ar" group-title="MultiEPG LATAM",DeporTV
+http://190.117.20.39:8000/play/a05k/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06h/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryChannelLatinAmerica.us@South" group-title="MultiEPG LATAM",Discovery Channel
+http://190.117.20.39:8000/play/a09u/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07i/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" group-title="MultiEPG LATAM",Discovery Home & Health
+http://190.117.20.39:8000/play/a0eg/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD**
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07h/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",Discovery Kids
+http://190.117.20.39:8000/play/a0eh/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN6
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06t/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryScienceLatinAmerica.us" group-title="MultiEPG LATAM",Discovery Science
+http://190.117.20.39:8000/play/a065/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN7
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02k/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryTheaterLatinAmerica.us" group-title="MultiEPG LATAM",Discovery Theater
+http://190.117.20.39:8000/play/a064/index.m3u8
+#EXTINF:11 group-title="ESPN VARIOS",ESPN HD
+http://177.53.153.207:8000/play/a00j/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",A  ESPN 1 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02z/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryTurboLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",Discovery Turbo
+http://179.60.224.196:8000/play/a0f5/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",A  ESPN 1 Ver2
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01w/index.m3u8?hls
-#EXTINF:0 tvg-id="DiscoveryWorld.us@LatinAmerica" group-title="MultiEPG LATAM",Discovery World
+http://179.60.224.196:8000/play/a0fe/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",A  ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a031/index.m3u8?hls
-#EXTINF:0 tvg-id="DisneyChannelLatinAmerica.ar@South" group-title="MultiEPG LATAM",Disney Channel
+http://179.60.224.196:8000/play/a0f6/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",A  ESPN 2 Ver2
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02r/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#disney-jr" group-title="MultiEPG LATAM",Disney Junior
+http://179.60.224.196:8000/play/a0ff/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",A  ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04y/index.m3u8?hls
-#EXTINF:0 tvg-id="ELatinAmerica.us@Andes" group-title="MultiEPG LATAM",E!
+http://179.60.224.196:8000/play/a0f7/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",A  ESPN 4
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a050/index.m3u8?hls
-#EXTINF:0 tvg-id="LasEstrellasLatinAmerica.mx" group-title="MultiEPG LATAM",Las Estrellas
+http://179.60.224.196:8000/play/a0f8/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",A  ESPN 5
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06z/index.m3u8?hls
-#EXTINF:0 tvg-id="ElGourmet.ar@South" group-title="MultiEPG LATAM",El Gourmet
+http://179.60.224.196:8000/play/a0f9/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",A  ESPN 6
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06w/index.m3u8?hls
-#EXTINF:0 tvg-id="ElNueve.ar" group-title="MultiEPG LATAM",Canal 9
+http://179.60.224.196:8000/play/a0fa/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04h/index.m3u8?hls
-#EXTINF:0 tvg-id="ElTrece.ar" group-title="MultiEPG LATAM",Canal 13
+http://190.117.20.37:8000/play/a05v/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
-#EXTINF:0 tvg-id="Encuentro.ar" group-title="MultiEPG LATAM",Encuentro
+http://190.117.20.37:8000/play/a0ca/index.m3u8
+#EXTINF:11 group-title="ESPN VARIOS",ESPN 2
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01m/index.m3u8?hls
-#EXTINF:0 tvg-id="Enlace.us" group-title="MultiEPG LATAM",Enlace
+http://190.117.20.37:8000/play/a05u/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bh/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#espn" group-title="MultiEPG LATAM",ESPN
+http://190.117.20.37:8000/play/a07t/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05a/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#espn-2" group-title="MultiEPG LATAM",ESPN 2
+http://190.117.20.37:8000/play/a05k/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a059/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#espn-3" group-title="MultiEPG LATAM",ESPN 3
+http://190.117.20.37:8000/play/a09u/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05b/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#espn-4" group-title="MultiEPG LATAM",ESPN 4
+http://190.117.20.37:8000/play/a0eg/index.m3u8
+#EXTINF:11 group-title="ESPN VARIOS",ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a076/index.m3u8?hls
-#EXTINF:-1 tvg-id="ESPNPremium.ar" group-title="Deportes",ESPN Premium
+http://190.117.20.37:8000/play/a0eh/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN6
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a078/index.m3u8?hls
-#EXTINF:0 tvg-id="EuropaEuropa.ar" group-title="MultiEPG LATAM",Europa Europa
+http://190.117.20.37:8000/play/a065/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN7
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06v/index.m3u8?hls
-#EXTINF:0 tvg-id="FilmArts.ar@Panregional" group-title="MultiEPG LATAM",film&arts
+http://190.117.20.37:8000/play/a064/index.m3u8
+#EXTINF:0,Fox Sports 2 HD
+#EXTINF:0 group-title="ESPN VARIOS",ESPN
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a030/index.m3u8?hls
-#EXTINF:0 tvg-id="FoxSports2.ar" group-title="MultiEPG LATAM",FOX Sports 2
+http://181.78.109.48:9998/play/a04p/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN  4 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05c/index.m3u8?hls
-#EXTINF:0 tvg-id="FoxSports3LatinAmerica.us@Panregional" group-title="MultiEPG LATAM",FOX Sports 3
+http://181.78.109.48:9998/play/a02d/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02t/index.m3u8?hls
-#EXTINF:0 tvg-id="FoxSports.ar" group-title="MultiEPG LATAM",FOX Sports HD
+http://181.78.109.48:9998/play/a04q/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07j/index.m3u8?hls
-#EXTINF:0 tvg-id="FX.ar" group-title="MultiEPG LATAM",FX
+http://181.78.109.48:9998/play/a05z/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02v/index.m3u8?hls
-#EXTINF:0 tvg-id="GaliciaTVAmerica.es" group-title="MultiEPG LATAM",Galicia TV
+http://181.78.109.48:9998/play/a03o/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02q/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#hbo" group-title="MultiEPG LATAM",HBO
+http://181.78.109.48:9998/play/a060/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06o/index.m3u8?hls
-#EXTINF:0 tvg-id="HBO2LatinAmerica.us" group-title="MultiEPG LATAM",HBO 2
+http://181.78.109.48:9998/play/a03p/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06q/index.m3u8?hls
-#EXTINF:0 tvg-id="HBOFamilyLatinAmerica.us" group-title="MultiEPG LATAM",HBO Family
+http://181.78.109.48:9998/play/a05i/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5  HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06r/index.m3u8?hls
-#EXTINF:0 tvg-id="HBOMundiLatinAmerica.us" group-title="MultiEPG LATAM",HBO Mundi
+http://181.78.109.48:9998/play/a05w/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02a/index.m3u8?hls
-#EXTINF:0 tvg-id="HBOPlusLatinAmerica.us" group-title="MultiEPG LATAM",HBO Plus (Panamericano HD)
+http://181.78.109.48:9998/play/a020/index.m3u8
+#EXTINF:11 group-title="ESPN VARIOS",ESPN 6 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06p/index.m3u8?hls
-#EXTINF:0 tvg-id="HBOSignatureLatinAmerica.us" group-title="MultiEPG LATAM",HBO Signature
+http://181.78.109.48:9998/play/a061/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02c/index.m3u8?hls
-#EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" group-title="MultiEPG LATAM",HBO Xtreme
+http://181.78.109.48:9998/play/a05y/index.m3u8
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02b/index.m3u8?hls
-#EXTINF:0 tvg-id="HGTVLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",HGTV
+http://177.53.153.207:8000/play/a006/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02j/index.m3u8?hls
-#EXTINF:0 tvg-id="History2LatinAmerica.us@Panregional" group-title="MultiEPG LATAM",History 2
+http://177.93.46.245:50000/play/a01n/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0ab/index.m3u8?hls
-#EXTINF:0 tvg-id="HistoryLatinAmerica.us@South" group-title="MultiEPG LATAM",History
+http://177.93.46.245:50000/play/a01d/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a051/index.m3u8?hls
-#EXTINF:0 tvg-id="HTV.us" group-title="MultiEPG LATAM",HTV
+http://177.93.46.245:50000/play/a01f/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02o/index.m3u8?hls
-#EXTINF:0 tvg-id="LaNacionPlus.ar" group-title="MultiEPG LATAM",LN+
+http://177.93.46.245:50000/play/a01m/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01s/index.m3u8?hls
-#EXTINF:0 tvg-id="LaTele.ve" group-title="MultiEPG LATAM",La Tele
+http://177.93.46.245:50000/play/a00j/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN CO
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0a8/index.m3u8?hls
-#EXTINF:0 tvg-id="LifetimeLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",Lifetime
+http://177.93.46.245:50000/play/a02c/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06n/index.m3u8?hls
-#EXTINF:0 tvg-id="Metro.ar" group-title="MultiEPG LATAM",Metro
+http://177.93.46.245:50000/play/a00e/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",1_ESPN_HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02g/index.m3u8?hls
-#EXTINF:0 tvg-id="MTVLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",MTV
+http://45.173.74.2:2010/play/a08a/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02m/index.m3u8?hls
-#EXTINF:0 tvg-id="MTV00s.uk" group-title="MultiEPG LATAM",MTV 00s
+http://45.173.74.2:2010/play/a06v/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a053/index.m3u8?hls
-#EXTINF:0 tvg-id="StarChannelLatinAmerica.us@South" group-title="MultiEPG LATAM",Star Channel HD
+http://45.173.74.2:2010/play/a05i/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05g/index.m3u8?hls
-#EXTINF:0 tvg-id="NickJrLatinAmerica.us@South" group-title="MultiEPG LATAM",Nick Jr.
+http://45.173.74.2:2010/play/a04x/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06u/index.m3u8?hls
-#EXTINF:0 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",Nick
+http://45.173.74.2:2010/play/a05x/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04z/index.m3u8?hls
-#EXTINF:0 tvg-id="NuevoTiempo.cl" group-title="MultiEPG LATAM",Nuevo Tiempo
+http://45.173.74.2:2010/play/a065/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 7HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bj/index.m3u8?hls
-#EXTINF:0 tvg-id="Pakapaka.ar" group-title="MultiEPG LATAM",Pakapaka
+http://45.173.74.2:2010/play/a06k/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01n/index.m3u8?hls
-#EXTINF:0 tvg-id="ParamountNetworkLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",Paramount Network
+http://38.210.3.64:8090/play/a0cm/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02y/index.m3u8?hls
-#EXTINF:0 tvg-id="QuieroMusicaenmiIdioma.ar" group-title="MultiEPG LATAM",Quiero Música en mi Idioma
+http://38.210.3.64:8090/play/a0k8/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02n/index.m3u8?hls
-#EXTINF:0 tvg-id="RaiItalia.it@America" group-title="MultiEPG LATAM",Rai Italia
+http://38.210.3.64:8090/play/a0jb/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02p/index.m3u8?hls
-#EXTINF:0 tvg-id="RT.ar" group-title="MultiEPG LATAM",RT en Español
+http://38.210.3.64:8090/play/a0jc/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0ac/index.m3u8?hls
-#EXTINF:0 tvg-id="Rural.ar" group-title="MultiEPG LATAM",Canal Rural
+http://38.210.3.64:8090/play/a0jd/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02f/index.m3u8?hls
-#EXTINF:0 tvg-id="SonyChannelAndes.us" group-title="MultiEPG LATAM",Sony HD
+http://38.210.3.64:8090/play/a0dj/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 7HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05d/index.m3u8?hls
-#EXTINF:0 tvg-id="SonyMovies.us" group-title="MultiEPG LATAM",Sony Movies
+http://38.210.3.64:8090/play/a0e6/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05k/index.m3u8?hls
-#EXTINF:0 tvg-id="Space.ar@Panregional" group-title="MultiEPG LATAM",Space
+http://38.210.3.64:8090/play/a0np/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02w/index.m3u8?hls
-#EXTINF:0 tvg-id="StarChannelLatinAmerica.us@South" group-title="MultiEPG LATAM",Star Channel HD
+http://38.210.3.64:8090/play/a0bu/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",050 ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a079/index.m3u8?hls
-#EXTINF:0 tvg-id="StudioUniversal.ar" group-title="MultiEPG LATAM",Studio Universal
+http://190.14.10.19:16000/play/a07r/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",134 ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a022/index.m3u8?hls
-#EXTINF:0 tvg-id="TCMLatinAmerica.us@South" group-title="MultiEPG LATAM",TCM
+http://190.14.10.19:16000/play/a093/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",135 ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a020/index.m3u8?hls
-#EXTINF:11 tvg-id="Telefe.ar" group-title="MultiEPG LATAM",Telefe
+http://190.14.10.19:16000/play/a094/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",136 ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06c/index.m3u8?hls
-#EXTINF:0 tvg-id="HistoryLatinAmerica.us@South" group-title="MultiEPG LATAM",History
+http://190.14.10.19:16000/play/a092/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",143 ESPN 5  HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05h/index.m3u8?hls
-#EXTINF:0 tvg-id="TLNovelas.mx" group-title="MultiEPG LATAM",TLNovelas
+http://190.14.10.19:16000/play/a09e/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",148 ESPN  4 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bm/index.m3u8?hls
-#EXTINF:0 tvg-id="TN.ar" group-title="MultiEPG LATAM",TN
+http://190.14.10.19:16000/play/a09t/index.m3u8
+#EXTINF:11 group-title="ESPN VARIOS",149 ESPN 6
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a058/index.m3u8?hls
-#EXTINF:0 tvg-id="TNTLatinAmerica.us@South" group-title="MultiEPG LATAM",TNT
+http://190.14.10.19:16000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN IXP
+http://200.229.147.142:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN2 IXP
+http://200.229.147.142:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN 3 IXP
+http://200.229.147.142:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN 4 IXP
+http://200.229.147.142:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN 5 IXP
+http://200.229.147.142:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN 6 IXP
+http://200.229.147.142:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN2HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN3HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN6HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN HD
+http://200.92.227.238:8000/play/a0tj/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN2 HD
+http://200.92.227.238:8000/play/a0tk/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN3 HD
+http://200.92.227.238:8000/play/a0tl/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN6 HD
+http://200.92.227.238:8000/play/a0tm/index.m3u8
+#EXTINF:-1,FUTV HD
+http://200.92.227.238:8000/play/a0ta/index.m3u8
+#EXTINF:-1 group-title="ESPN VARIOS",ESPN5 HD
+http://181.205.130.194:4000/play/a0fs
+#EXTINF:0 group-title="ESPN VARIOS",ESPN  4 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07d/index.m3u8?hls
-#EXTINF:0 tvg-id="TNTNovelas.us" group-title="MultiEPG LATAM",TNT Novelas
+http://200.115.96.61:9090/play/a0hw/index.m3u8
+#EXTINF:11 group-title="ESPN VARIOS",ESPN 1
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07g/index.m3u8?hls
-#EXTINF:0 tvg-id="TNTSeriesLatinAmerica.us@South" group-title="MultiEPG LATAM",TNT Series
+http://200.115.96.61:9090/play/a034/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07e/index.m3u8?hls
-#EXTINF:0 tvg-id="TNTSports.ar" group-title="MultiEPG LATAM",TNT Sports
+http://200.115.96.61:9090/play/a0fj/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5  HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
-#EXTINF:0 tvg-id="ar#canal-7-hd" group-title="MultiEPG LATAM",Televisión Pública
+http://200.115.96.61:9090/play/a0he/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN2
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a056/index.m3u8?hls
-#EXTINF:0 tvg-id="TVEInternacionalAmerica.es" group-title="MultiEPG LATAM",TVE Internacional
+http://200.115.96.61:9090/play/a035/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN6
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a072/index.m3u8?hls
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="MultiEPG LATAM",TyC Sports
+http://200.115.96.61:9090/play/a01i/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02s/index.m3u8?hls
-#EXTINF:0 tvg-id="UniversalTVLatinAmerica.us@South" group-title="MultiEPG LATAM",Universal TV
+http://38.210.3.64:8090/play/a0cm/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05j/index.m3u8?hls
-#EXTINF:0 tvg-id="USANetworkLatinAmerica.us" group-title="MultiEPG LATAM",USA Network
+http://38.210.3.64:8090/play/a0k8/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a023/index.m3u8?hls
-#EXTINF:0 tvg-id="Volver.ar" group-title="MultiEPG LATAM",Volver
+http://38.210.3.64:8090/play/a0jb/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a021/index.m3u8?hls
-#EXTINF:0 tvg-id="VTV.uy" group-title="MultiEPG LATAM",VTV
+http://38.210.3.64:8090/play/a0jc/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0aa/index.m3u8?hls
-#EXTINF:0 tvg-id="WarnerChannel.us@South" group-title="MultiEPG LATAM",Warner Channel
+http://38.210.3.64:8090/play/a0jd/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05e/index.m3u8?hls
+http://38.210.3.64:8090/play/a0dj/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 7HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0e6/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0np/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0bu/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a053/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a054/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a0ix/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a0kj/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a052/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a0ba/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN  4 HD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a03e/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a0bb/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a08j/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a05c/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a08k/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a05d/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a077/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5  HD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a07l/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a031/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a08l/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://200.229.147.210:9999/play/a08i/index.m3u8
+
+#EXTINF:0 group-title="ESPN VARIOS",ESPN
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a03i/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a0jg/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 2 Latin
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a03h/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a0lt/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a0gq/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a045/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 5HD
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a0gi/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a03s/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 6HD
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a0as/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN 7
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a03r/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://38.97.240.11:8000/play/a0h6/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://177.53.153.207:8000/play/a001/index.m3u8
+#EXTINF:0 group-title="ESPN VARIOS",Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+#EXTINF:0 group-title="ESPN VARIOS",EVENTOS
+http://181.209.105.115:2525/play/evento/index.m3u8
+
+#EXTINF:0 group-title="ASTRA DE TODO",A&E HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a06z
+#EXTINF:0 group-title="ASTRA DE TODO",Adult Swim
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0j3
+#EXTINF:0 group-title="ASTRA DE TODO",AMC HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a09f
+#EXTINF:0 group-title="ASTRA DE TODO",AMC SERIES
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ep
+#EXTINF:0 group-title="ASTRA DE TODO",AMERICA TV
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ka
+#EXTINF:0 group-title="ASTRA DE TODO",America TV HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0jg
+#EXTINF:0 group-title="ASTRA DE TODO",Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0c8
+#EXTINF:0 group-title="ASTRA DE TODO",ATV
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0hy
+#EXTINF:0 group-title="ASTRA DE TODO",ATV +
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ek
+#EXTINF:0 group-title="ASTRA DE TODO",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0cg
+#EXTINF:0 group-title="ASTRA DE TODO",BETHEL TV
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a08z
+#EXTINF:0 group-title="ASTRA DE TODO",Canal N
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0k1
+#EXTINF:0 group-title="ASTRA DE TODO",Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0k8
+#EXTINF:0 group-title="ASTRA DE TODO",Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0kk
+#EXTINF:0 group-title="ASTRA DE TODO",CHV HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0hp
+#EXTINF:0 group-title="ASTRA DE TODO",Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fa
+#EXTINF:0 group-title="ASTRA DE TODO",CNN Espa ol
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0gj
+#EXTINF:0 group-title="ASTRA DE TODO",Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a09h
+#EXTINF:0 group-title="ASTRA DE TODO",De Película
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ir
+#EXTINF:0 group-title="ASTRA DE TODO",DHE HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ct
+#EXTINF:0 group-title="ASTRA DE TODO",Discovery Channel  HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fz
+#EXTINF:0 group-title="ASTRA DE TODO",Discovery H&H HD	
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0em
+#EXTINF:0 group-title="ASTRA DE TODO",Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0kj
+#EXTINF:0 group-title="ASTRA DE TODO",Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0hn
+#EXTINF:0 group-title="ASTRA DE TODO",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0i5
+#EXTINF:0 group-title="ASTRA DE TODO",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fs
+#EXTINF:0 group-title="ASTRA DE TODO",Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fw
+#EXTINF:0 group-title="ASTRA DE TODO",Disney Jr.
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0gd
+#EXTINF:0 group-title="ASTRA DE TODO",Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0eq
+#EXTINF:0 group-title="ASTRA DE TODO",Dsports HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0br
+#EXTINF:0 group-title="ASTRA DE TODO",DW Espa ol
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0kh
+#EXTINF:0 group-title="ASTRA DE TODO",El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a09q
+#EXTINF:0 group-title="ASTRA DE TODO",ESPN 12
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0k7
+#EXTINF:0 group-title="ASTRA DE TODO",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ik
+#EXTINF:0 group-title="ASTRA DE TODO",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0hm
+#EXTINF:0 group-title="ASTRA DE TODO",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0hq
+#EXTINF:0 group-title="ASTRA DE TODO",ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ft
+#EXTINF:0 group-title="ASTRA DE TODO",ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0hk
+#EXTINF:0 group-title="ASTRA DE TODO",ESPN 7 HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0jy
+#EXTINF:0 group-title="ASTRA DE TODO",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0c1
+#EXTINF:0 group-title="ASTRA DE TODO",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ho
+#EXTINF:0 group-title="ASTRA DE TODO",EXITOSA
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fm
+#EXTINF:0 group-title="ASTRA DE TODO",Exitosa TV
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0il
+#EXTINF:0 group-title="ASTRA DE TODO",FX HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a098
+#EXTINF:0 group-title="ASTRA DE TODO",GLOBAL
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0j4
+#EXTINF:0 group-title="ASTRA DE TODO",Global
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0i0
+#EXTINF:0 group-title="ASTRA DE TODO",GOLDEN HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0dp
+#EXTINF:0 group-title="ASTRA DE TODO",Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0bb
+#EXTINF:0 group-title="ASTRA DE TODO",HBO 2
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0kl
+#EXTINF:0 group-title="ASTRA DE TODO",HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0c4
+#EXTINF:0 group-title="ASTRA DE TODO",HBO HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0g0
+#EXTINF:0 group-title="ASTRA DE TODO",HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0i2
+#EXTINF:0 group-title="ASTRA DE TODO",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0bs
+#EXTINF:0 group-title="ASTRA DE TODO",HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fr
+#EXTINF:0 group-title="ASTRA DE TODO",HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0i1
+#EXTINF:0 group-title="ASTRA DE TODO",HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0cv
+#EXTINF:0 group-title="ASTRA DE TODO",History 2
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0as
+#EXTINF:0 group-title="ASTRA DE TODO",History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ca
+#EXTINF:0 group-title="ASTRA DE TODO",Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0k9
+#EXTINF:0 group-title="ASTRA DE TODO",ID HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ch
+#EXTINF:0 group-title="ASTRA DE TODO",IPe HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0el
+#EXTINF:0 group-title="ASTRA DE TODO",Kanal D Drama
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ki
+#EXTINF:0 group-title="ASTRA DE TODO",KARIBE A
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0f8
+#EXTINF:0 group-title="ASTRA DE TODO",L1 MAX
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0k5
+#EXTINF:0 group-title="ASTRA DE TODO",La Red HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0d4
+#EXTINF:0 group-title="ASTRA DE TODO",La Tele
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0i9
+#EXTINF:0 group-title="ASTRA DE TODO",Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0jz
+#EXTINF:0 group-title="ASTRA DE TODO",LATINA HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0kb
+#EXTINF:0 group-title="ASTRA DE TODO",Latina HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0jh
+#EXTINF:0 group-title="ASTRA DE TODO",Love Nature
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0kg
+#EXTINF:0 group-title="ASTRA DE TODO",MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a08u
+#EXTINF:0 group-title="ASTRA DE TODO",Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ke
+#EXTINF:0 group-title="ASTRA DE TODO",Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0cb
+#EXTINF:0 group-title="ASTRA DE TODO",Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fy
+#EXTINF:0 group-title="ASTRA DE TODO",Nuestra Tele
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0f5
+#EXTINF:0 group-title="ASTRA DE TODO",Panamericana
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0hx
+#EXTINF:0 group-title="ASTRA DE TODO",Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0cs
+#EXTINF:0 group-title="ASTRA DE TODO",Plim Plim TV
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0kd
+#EXTINF:0 group-title="ASTRA DE TODO",POPU TV
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0jq
+#EXTINF:0 group-title="ASTRA DE TODO",RPP
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0hz
+#EXTINF:0 group-title="ASTRA DE TODO",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ce
+#EXTINF:0 group-title="ASTRA DE TODO",Space HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fv
+#EXTINF:0 group-title="ASTRA DE TODO",STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0cr
+#EXTINF:0 group-title="ASTRA DE TODO",Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0jt
+#EXTINF:0 group-title="ASTRA DE TODO",Sun Channel HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0cu
+#EXTINF:0 group-title="ASTRA DE TODO",TCM
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0bd
+#EXTINF:0 group-title="ASTRA DE TODO",Telemundo
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0gg
+#EXTINF:0 group-title="ASTRA DE TODO",Tlnovelas 
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0k6
+#EXTINF:0 group-title="ASTRA DE TODO",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0hh
+#EXTINF:0 group-title="ASTRA DE TODO",TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0cp
+#EXTINF:0 group-title="ASTRA DE TODO",TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0hi
+#EXTINF:0 group-title="ASTRA DE TODO",TNT Sports Premium
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0kr
+#EXTINF:0 group-title="ASTRA DE TODO",TNT Sports Premiun HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fx
+#EXTINF:0 group-title="ASTRA DE TODO",Tooncast
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0gh
+#EXTINF:0 group-title="ASTRA DE TODO",TV Perú
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0kf
+#EXTINF:0 group-title="ASTRA DE TODO",UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ck
+#EXTINF:0 group-title="ASTRA DE TODO",UNIVERSAL CINEMA
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0je
+#EXTINF:0 group-title="ASTRA DE TODO",Universal Cinema SD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0kn
+#EXTINF:0 group-title="ASTRA DE TODO",UNIVERSAL COMEDY
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0e3
+#EXTINF:0 group-title="ASTRA DE TODO",Universal Comedy SD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ko
+#EXTINF:0 group-title="ASTRA DE TODO",UNIVERSAL PREMIER
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0bn
+#EXTINF:0 group-title="ASTRA DE TODO",Universal Premiere SD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0km
+#EXTINF:0 group-title="ASTRA DE TODO",UNIVERSAL PREMIUM 
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0jf
+#EXTINF:0 group-title="ASTRA DE TODO",USA
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0ba
+#EXTINF:0 group-title="ASTRA DE TODO",USMP TV
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0j1
+#EXTINF:0 group-title="ASTRA DE TODO",Warner TV HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fu
+#EXTINF:0 group-title="ASTRA DE TODO",WILLAX
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.72:9999/play/a0fk
+
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",1 TV URANIO
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0kn/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",13 C
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0u5/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",24 Horas TVN
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a04a/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",A&E
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a06g/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Adult Swim
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03e/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",AMAZONICA TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0m4/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",AMC
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a06k/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",AMC Series
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03p/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",AMERICA
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a05m/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a06v/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",ARTEMUSA TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a017/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",ATV(MAX949092800)
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08f/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",ATV+
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0nm/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a00r/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",AZ CORAZON
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0ki/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Baby TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0u3/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",BETHEL TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02h/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Bethel One Second
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02n/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",BNB DIGITAL
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0f2/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Canal 24 Horas
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02w/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",CANAL LUZ
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0nl/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Canal N
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08r/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",CanalB
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0b1/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07j/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08k/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",CGNT ESPA
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a05q/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",CHV HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a073/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",CHV HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0sa/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Cinemax
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a01u/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07t/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",CNN Chile
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02u/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",CNN Espa ol
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0u7/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",CNN International
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a034/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",CONECTADOS TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0a5/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",CORPORACION TV 
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a01p/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",De Película
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a04p/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",DHE HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a05h/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Discovery Channel  HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0u1/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Discovery H&H
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a080/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07k/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a00g/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a06w/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0u9/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a086/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Disney Jr. R
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a028/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03y/index.m3u8
+#EXTINF:225 group-title="ASTRA CHILE CON DSPORTS",DSPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a066/index.m3u8
+#EXTINF:225 group-title="ASTRA CHILE CON DSPORTS",DSPORTS +
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a011/index.m3u8
+#EXTINF:225 group-title="ASTRA CHILE CON DSPORTS",DSPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",E! Entertainment TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a039/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07u/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Enlace
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a00h/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",ESPN 2 HD R
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02a/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",ESPN 4 R
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a075/index.m3u8
+#EXTINF:225 group-title="ASTRA CHILE CON DSPORTS",ESPN HD R
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02d/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a05g/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",EWTN
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0u4/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Exitosa TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08w/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Film&Arts
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03n/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Food Network HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07r/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",FX HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02i/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Global
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08g/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03v/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Golden HD R
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a027/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Golf Channel
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03s/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Gorehco tv
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a04l/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",(HCO) BETHEL TV 
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0tp/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",(HCO) CNH HUANUCO
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0ob/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",(HCO) CONTINENTAL
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0or/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",(HCO) REAL TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0ni/index.m3u8
+#EXTINF:225 group-title="ASTRA CHILE CON DSPORTS",(HCO) TELERUMBA
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0mb/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",(HCO) TV ORION
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0nh/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HBO
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/tr/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HBO 2 R
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a026/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07x/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a084/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a00s/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0ts/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a082/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HBO Xtreme HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a00p/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HEI HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0t7/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HGTV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03b/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",History 2
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0tk/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",History Channel
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a068/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HOLA TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a062/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07q/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HTV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03q/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",HUANUCO TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07h/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",ID - Investigation Discovery
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a067/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",ID HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08a/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",JN19
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07i/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",KANAL DE DRAMA
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0sq/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",KARIBENA
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0hw/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",L1 MAX
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07e/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",La Red
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02v/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a06x/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Las Estrellas HD R
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02e/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Latina HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07c/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Lifetime
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03d/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",LIGA 1
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07s/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",MAYA TV 
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a010/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02t/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",MEGA TV PASCO
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a00z/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Milenial TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0l0/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08o/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Movistar Informa
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08z/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Movistar Informa
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a05u/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",MTV HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a087/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",National Geographic
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0td/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",NATIVA TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08x/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Nick HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0tt/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Nick Jr.
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a081/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Nick Music
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03l/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02s/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Nuestra Tele
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03k/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",NTN24
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03r/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",OROMAR TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a040/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",PANAO TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a01h/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Panamericana
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08e/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0st/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",POPU TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a048/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",RADIO ORIENTE 
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a06n/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",RCN Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a042/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",REAL MADRID
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a00x/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",REC TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02q/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",RT Noticias
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a083/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",RTU
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03z/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",RUMBO MINERO
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0no/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",SANJUANERA TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0kj/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",SELVA TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0m5/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a00q/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Sony Movies
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07l/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Space HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0u2/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Stingray Concerts HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0qx/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a06e/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",SUMAC TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0od/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Sun Channel
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0pd/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",SUYAI TV 
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a05s/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TCM
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03w/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Teen Nick
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03m/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Telef 
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03c/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Telemundo
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a01w/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TELEMUNDO NOTICIAS
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a05t/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Telenovelas
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a04o/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Televicentro
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a032/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TLC
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a038/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a06y/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08p/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08j/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TNT Sports Premiun HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0rb/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a071/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Tooncast
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03a/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TOP TV
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a01q/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TV+
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a020/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TVE
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a00k/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TVN HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02r/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",TV PERU
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08y/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07w/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Via X Esports
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a03t/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0t0/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0sx/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD DISNEY JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0tg/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD ESPN 1
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0t6/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0t5/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0t4/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0t3/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0t2/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0t1/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD ESPN 7
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0l5/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD FX 
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0sz/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD NAT GEO CABLE MAX
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0su/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",VVD STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a0sy/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08b/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Warner TV HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a02p/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Willax
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a08c/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS",Win Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://38.224.175.2:8000/play/a07n/index.m3u8
 
 
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",12 America TV HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0g4/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",13 ATV HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a05n/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",14 ATV Sur HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a05p/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",15 ATV+ Noticias HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a05o/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",16 Panamericana
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0p8/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",17 TV Peru HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a072/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",18 IPE HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a06i/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",19 Willax HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a07c/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",20 RPP HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a06u/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",21 Canal N
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0p5/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",22 RADIO PBO
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0cj/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",23 Exitosa HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a067/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",24 Karibe a HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a06k/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",A&E HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0bi/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Adult Swim
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ov/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",AMC HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0gh/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hl/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",ATV
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ok/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hu/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Baby TV
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ot/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",BETHEL TV
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ch/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Cine Familiar HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0oz/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Cine Premium HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0oy/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",CineClick HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0p2/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hq/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Cinema Premium HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0p0/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Cinema Premium Xtreme
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0p1/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Claro Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0oa/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Claro Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ob/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",CNN Espa ol
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ou/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",CNN Espa ol HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a05v/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0bj/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",DHE HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hg/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Discovery Channel  HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hm/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Discovery ID HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a05z/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0h6/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Discovery Turbo HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a061/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0gy/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Disney HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hx/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Disney Junior HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a062/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",DSports + HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0o8/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",DSports HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a05m/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",E! Entertainment TV
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0lk/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0gs/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Enlace
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0nq/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0j1/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0h1/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",ESPN 4HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hz/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",ESPN 5HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0gu/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",ESPN 6HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0gr/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",ESPN 7HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hr/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0he/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",ESPN PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0o7/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",EWTN
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0np/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Food Network
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ow/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",FX HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0i0/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Global
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0jm/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0eg/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hi/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",HBO HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0gx/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",HBO Plus HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a06d/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",HBO Pop HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ea/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a06g/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hj/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hn/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",ID HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hv/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",JN19TV HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a06j/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Latina HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0iu/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",LIGA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0fa/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",LIGA 1 MAX HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a06n/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Movistar Deportes HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0fb/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",MTV HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0h2/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ho/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Nick HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hb/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0h9/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",PX Sports HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0oe/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",RADIO BETHEL
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ci/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Sony Channel HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a06v/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hs/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Sony Movies HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a06w/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Space HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hw/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0i1/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Stingray Concerts HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0o4/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Sun Channel HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hk/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Telemundo
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0nm/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Telemundo HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a06z/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Tigo Sports HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0oc/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",TLNovelas HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ni/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0hp/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0h0/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0gw/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",TNT Sports Premiun HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ox/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Tooncast
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0nn/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0gt/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0ht/index.m3u8
+#EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Win Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://38.188.100.18:8000/play/a0o9/index.m3u8
