@@ -13766,3 +13766,532 @@ http://45.167.2.101:8000/play/a0la/index.m3u8
 #EXTINF:0 group-title="ASTRA EL SALVADOR",ZooMoo
 #EXTVLCOPT:network-caching=1000
 http://45.167.2.101:8000/play/a0so/index.m3u8
+
+#EXTINF:0 group-title="ASTRA CABLEMAX",1 TV URANIO
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0kn/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",13 C
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0u5/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",24 Horas TVN
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a04a/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",A&E
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a06g/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Adult Swim
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03e/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",AMAZONICA TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0m4/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",AMC
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a06k/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",AMC Series
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03p/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",AMERICA
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a05m/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a06v/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",ARTEMUSA TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a017/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",ATV(MAX949092800)
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08f/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",ATV+
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0nm/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a00r/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",AZ CORAZON
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0ki/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Baby TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0u3/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",BETHEL TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02h/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Bethel One Second
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02n/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",BNB DIGITAL
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0f2/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Canal 24 Horas
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02w/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",CANAL LUZ
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0nl/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Canal N
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08r/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",CanalB
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0b1/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07j/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08k/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",CGNT ESPA
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a05q/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",CHV HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0sa/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",CHV HD (2)
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a073/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Cinemax
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a01u/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",CNN Chile
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02u/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",CNN Espa ol
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0u7/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",CNN International
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a034/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",CONECTADOS TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0a5/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",CORPORACION TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a01p/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",De Pel
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a04p/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",DHE HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a05h/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0u1/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Discovery H&H
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a080/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a086/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Disney Jr. R
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a028/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03y/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",DSPORTS +
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",DSPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",DSPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a066/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",E! Entertainment TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a039/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07u/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Enlace
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a00h/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",ESPN 2 HD R
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02a/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",ESPN 4 R
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a075/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",ESPN HD R
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02d/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a05g/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",EWTN
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0u4/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Exitosa TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08w/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Film&Arts
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03n/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Food Network HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07r/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",FX HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02i/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Global
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08g/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03v/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Golden HD R
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a027/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Golf Channel
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03s/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Gorehco tv
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a04l/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HBO
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0tr/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HBO 2 R
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a026/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07x/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a084/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0ts/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a00s/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a082/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HBO Xtreme HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a00p/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HEI HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0t7/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HGTV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03b/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",History 2
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0tk/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",History Channel
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a068/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HOLA TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a062/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07q/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HTV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03q/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",HUANUCO TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07h/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",ID - Investigation Discovery
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a067/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",ID HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08a/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",JN19
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07i/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",KANAL DE DRAMA
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0sq/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",KARIBENA
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0hw/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",L1 MAX
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07e/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",La Red
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02v/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a06x/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Las Estrellas HD R
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02e/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Latina HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07c/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",LIGA 1
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07s/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Lifetime
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03d/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",MAYA TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a010/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02t/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",MEGA TV PASCO
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a00z/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Milenial TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0l0/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08o/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Movistar Informa
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a05u/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Movistar Informa (2)
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08z/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",MTV HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a087/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",NATIVA TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08x/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",National Geographic
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0td/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Nick HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0tt/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Nick Jr.
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a081/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Nick Music
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03l/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02s/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",NTN24
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03r/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Nuestra Tele
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03k/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",OROMAR TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a040/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",PANAO TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a01h/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Panamericana
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08e/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0st/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",POPU TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a048/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",RADIO ORIENTE
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a06n/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",RCN Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a042/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",REAL MADRID
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a00x/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",REC TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02q/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",RT Noticias
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a083/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",RTU
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03z/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",RUMBO MINERO
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0no/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",SANJUANERA TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0kj/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",SELVA TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0m5/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a00q/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Sony Movies
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07l/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Space HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0u2/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Stingray Concerts HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0qx/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a06e/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",SUMAC TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0od/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Sun Channel
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0pd/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",SUYAI TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a05s/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TCM
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03w/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Teen Nick
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03m/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Telef
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03c/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TELEMUNDO NOTICIAS
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a05t/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Telemundo
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a01w/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Telenovelas
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a04o/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Televicentro
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a032/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TLC
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a038/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a06y/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08p/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a071/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08j/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TNT Sports Premiun HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0rb/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Tooncast
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03a/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TOP TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a01q/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TV PERU
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08y/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TV+
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a020/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TVE
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a00k/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",TVN HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02r/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07w/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Via X Esports
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a03t/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0t0/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0sx/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD DISNEY JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0tg/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD ESPN 1
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0t6/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0t5/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0t4/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0t3/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0t2/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0t1/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD ESPN 7
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0l5/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD FX
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0sz/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD NAT GEO CABLE MAX
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0su/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",VVD STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0sy/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08b/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Warner TV HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a02p/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Willax
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a08c/index.m3u8
+#EXTINF:0 group-title="ASTRA CABLEMAX",Win Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a07n/index.m3u8
+#EXTINF:(HCO) BETHEL TV 
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0tp/index.m3u8
+#EXTINF:(HCO) CNH HUANUCO
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0ob/index.m3u8
+#EXTINF:(HCO) CONTINENTAL
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0or/index.m3u8
+#EXTINF:(HCO) REAL TV
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0ni/index.m3u8
+#EXTINF:(HCO) TELERUMBA
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0mb/index.m3u8
+#EXTINF:(HCO) TV ORION
+#EXTVLCOPT:network-caching=1000
+http://cablemaxsigloxxi.com:8000/play/a0nh/index.m3u8
