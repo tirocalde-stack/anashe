@@ -12412,3 +12412,1357 @@ http://38.188.100.18:8000/play/a0ht/index.m3u8
 #EXTINF:0 group-title="ASTRA CHILE CON DSPORTS 2",Win Sports+ HD
 #EXTVLCOPT:network-caching=1000
 http://38.188.100.18:8000/play/a0o9/index.m3u8
+
+
+#EXTINF:0 group-title="ASTRA 300 CANALES",13 C
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11y/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",24 HORAS
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0u1/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",A&E
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1al/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",A&E HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12j/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",A&E HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1b7/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",AE Mundo
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a18v/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Adult Swim
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11w/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Adult swim
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1d6/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Adult swim HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dp/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",AM Continental
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dv/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",AMC HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12p/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",America TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0v3/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",America TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1a4/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",America TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1au/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",America TV PY
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0v9/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a102/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Antena 3
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0x3/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ATV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wz/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ATV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0v5/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Atres Series
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1em/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",AXN
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ak/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a10b/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1b4/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Baby TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0nv/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",BBC News
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1e9/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",BETHEL TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0zl/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",C9N
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vo/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",CANAL 13
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0tt/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Canal 13 HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12g/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Canal 24 Horas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13g/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Canal Caracol
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vh/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Canal Claro
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0uy/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Canal de la Ciudad
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cn/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Canal Las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a18z/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Canal RCN
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vi/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Canal Uno
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vf/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Capital
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vw/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0ns/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1d1/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1de/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1f0/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11l/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",CHV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0ts/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",CHV HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a135/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cr/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a107/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dl/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Cinemax
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0w0/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Cinemax
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ag/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",City TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vv/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Claro Cinema
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wb/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",CNN Chile
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13e/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",CNN en Espa ol
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1at/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",CNN Espanol
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0to/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",CNN Espa ol
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11h/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",CNN International
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11e/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12k/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ej/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",DAYSTAR
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1f1/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",De Pelicula
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ec/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",DeporTV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cq/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",DHE 
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13k/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1da/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery Channel  HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a103/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ds/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery H&H
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11b/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery H&H
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1d7/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery H&H HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dr/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ex/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1d2/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11f/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11n/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a133/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wd/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11j/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ep/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12s/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a18n/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a10e/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0u0/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0k4/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1am/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1hn/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0y8/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",DW Espa ol
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xb/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",E! Entertainment
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ap/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",E! Entertainment TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11o/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ECDF SD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vx/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Ecuador TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1gq/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Ecuador TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0va/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Ecuador TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1gl/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Ecuavisa
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1gj/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Ecuavisa
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vj/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",El Canal  de las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1d8/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1d5/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12l/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",El Trece
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0x2/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Enlace
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11v/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Esne
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0we/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a18s/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vp/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ac/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a18r/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ab/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a138/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ay/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wf/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ad/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12v/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1b0/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a10g/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dg/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12n/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a191/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12h/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 7
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ey/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN 7
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a190/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13h/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1az/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN Premium
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0tv/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13l/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1di/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ETC
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a126/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Eurochannel
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a198/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Eurochannel
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0x4/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Europa Europa
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0y3/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Europa Europa
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1d4/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Eventos HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dc/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Eventos para todos HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dd/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",EWTN
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11t/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Exitosa TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1f6/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Film&Arts
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xr/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",FM 100
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1du/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Food Network
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13i/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Fox Sports
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cp/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ae/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1b1/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dh/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",France 24
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0x8/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",France 24
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0ux/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",FX
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1hw/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",FX
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1hx/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",FX HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a10h/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",GamaTV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1il/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",GamaTV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vb/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Gamavisi n
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1gm/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Global
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0x1/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",GOL TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a18t/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Golden
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0y1/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0y0/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Golden HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xm/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Golf Channel
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xx/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a132/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cx/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO 2
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0y6/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO 2
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cz/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO Family
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0tz/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO Family
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1d0/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13m/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12r/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0x6/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0y5/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cy/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a139/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0x5/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO Xtreme HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13n/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HBO Xtreme SD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0ty/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HEI HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ek/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HGTV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11r/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",History 2
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xn/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",History Channel
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1aq/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a104/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HOLA TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1im/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11g/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Home and Health
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0v1/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",HTV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xu/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ID
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0uw/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ID HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a10c/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Kidoo HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ao/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",La Red
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0tp/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",La Red
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13f/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",La Tele
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wh/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ez/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Latina
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0v2/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Lifetime
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a19a/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Lifetime
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cw/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13b/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Mega
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0tr/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Mitre AM790
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dt/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Movistar Deportes
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1f3/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Movistar Informa
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ew/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",MTV 00
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1as/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",MTV 00s 
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xd/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",MTV 
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12w/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",MTV HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1eq/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",MTV Live
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12t/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",M sChic
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xt/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a105/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ar/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1b5/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wc/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0rg/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1d3/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Nick Music
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xp/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1an/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13a/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",NPY
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vq/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",NTN24
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xv/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",NTV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0u7/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Nuestra Tele
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xo/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",OROMAR TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0yb/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Panamericana
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wy/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Panamericana TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0v4/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ParaguayTV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1hu/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ParaguayTV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vc/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Paramount HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1hp/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Paramount HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12i/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",PARAVISION
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vn/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a136/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Playboy HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a122/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Plus TV Life
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1f4/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",POPU TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1eo/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",RAI Italia
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12f/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",RCN Novelas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0uv/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",REC TV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a130/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",RPP
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1e8/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",RPP
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0x0/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",RT en Espa ol
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1co/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",RTS
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0w8/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",RTS
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1gp/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",RTU
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0y9/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Senal Colombia
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vm/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Sextreme
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0x7/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",SONY
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ah/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Sony
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0w1/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a109/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1b2/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Sony Movies
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0lc/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Sony Movies HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1b9/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Space
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1hv/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Space
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1hy/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Space HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ik/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Space HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a10d/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Star Channel
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ct/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a10i/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dj/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0u2/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Sun Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a13o/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",SURTV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ii/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",SURTV
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vr/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TC
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vg/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TC Televisi n
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1gn/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TCM
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0y2/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Teen Nick
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xq/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Teleamazonas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1gk/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Teleamazonas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vk/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Teleantioquia
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0w5/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Telecafe
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wi/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Telecaribe
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wg/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Telef 
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11s/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Telefe
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0w9/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Telefe HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dm/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Telefe HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cl/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Teleislas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vu/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Telemundo
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11p/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Telepacifico
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0w7/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Telesur
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1f9/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Televicentro
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1go/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Televicentro
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11d/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",The History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1b6/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Tigo Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a148/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TLC
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a18x/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TLC
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11m/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TLNovelas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1d9/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Tlnovelas 
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ea/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TN
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1a3/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TN HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ax/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cs/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a106/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dn/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT Novelas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0uz/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT Novelas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12u/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT Novelas
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cu/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dq/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT Series
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cv/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12q/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1do/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT SPORTS
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a129/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT Sports Premium
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0tu/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TNT Sports Premiun HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a137/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Tooncast
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11q/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Trece
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wj/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Trece
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0v8/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TRO
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vt/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TV Peru SD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0v7/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TV Publica
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1a2/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TV Publica HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1av/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TV+
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dw/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TVE
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a11x/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TVE
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1hr/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TVE
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1db/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TVN
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0tq/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TVN HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a134/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",TyC
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a18u/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Unicanal
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0wa/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a12m/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Universal
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1io/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Universal
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1aj/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Universal Cinema SD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0u5/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Universal Comedy SD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0u6/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Universal HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ip/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Universal HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1b8/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Universal Premiere SD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0u4/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",USA
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xz/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Venus
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0y7/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Via X Esports
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xy/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",ViaX
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a18y/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",VTV HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1df/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Warner
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a18o/index.m3u8
+#EXTINF:0 group-title="ASTRA 300 CANALES",Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1ai/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1b3/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",Warner TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1in/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",Warner TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a10a/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",Willax
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1f7/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",Willax
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0v0/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",Win
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0w6/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",Win Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0xf/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",Win Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1en/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",Zoom
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a0vs/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",el nueve HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1aw/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",el nueve HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1a5/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",el trece HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1dk/index.m3u8
+#EXTINF:0 group-title="ASTRA 300",el trece HD
+#EXTVLCOPT:network-caching=1000
+http://45.188.229.33:8000/play/a1cm/index.m3u8
+
+
+#EXTINF:0 group-title="ASTRA EL SALVADOR",3 ABN
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0s6/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",A&E
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0nz/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Agape Canal 8
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qr/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",AMC
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0o1/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",AMC SERIES
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0ta/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Arbol De vida
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0si/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",AXN
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qk/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Az Corazon
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0l9/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Azteca Honduras
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0se/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Baby TV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0sq/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",BandaMAX
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0sg/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",BOLIVISION
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a07m/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",CANAL 10
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0r8/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Canal 12
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0nw/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Canal 19 Megavision
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rq/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Canal 2
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qp/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Canal 21
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0m4/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Canal 4
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qq/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Canal 5 - HON
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0s4/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Canal 6
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qs/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",CANAL 9
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0r5/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Canal de Drama
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0oa/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Canal La Bendicion
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0s2/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0px/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0sp/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Cine Latino 
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rp/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",CINECANAL HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0o2/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rl/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",CNN
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0t5/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rd/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",CUBA VISION
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0sd/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Cultura TV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a06p/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0m3/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DISC THEATER HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0l0/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a07l/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Disney JR
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0l7/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DTV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0sa/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-Animal Planet Latin HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0nt/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-BETME
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rx/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-DEPELICULA
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0ru/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-Discovery Kids Latin HD 
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0oi/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-Discovery Latin HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0ok/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rv/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-Entertainmet
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0q8/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0r3/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0q0/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0sc/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-H&H Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0ry/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-HISTORY2
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qf/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-ID Latin HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0ol/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0q4/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-SONY
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qc/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-SONY MOVIE
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qy/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qi/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-Telenovelas
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0s1/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-TLC
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qd/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-TUDN
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0r4/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-TURBO
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qe/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DVB-WB
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qh/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",DW
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0lj/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Emaxtv
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rr/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",ENLACE
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0s8/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",ESPN
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0py/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Estrenos TV-River
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rf/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",EWTN
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0t3/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Film & Arts
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0q9/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",FOX
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0tb/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",FoxSport
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rs/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",FoxSport2
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rt/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",FoxSport3
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rw/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",FX
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0kz/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",GOLDEN
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rz/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Guatevision - GUA 
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0o9/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",HBO2
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0lp/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",HISTORY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0ny/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",LAS-ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0pk/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",MARIA VISION
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0s7/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",MAS CHIC
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0q5/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",MITV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0s3/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",MIZPA TV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0r7/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",MORAZAN TV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0o4/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",MP MULTIPREMIER
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0lq/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",MTV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qt/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",MTV 00s
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0sb/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",MTV 80s
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0sr/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0o0/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",NICK 2
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qv/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",NICK JR
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qw/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Paramount
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0ro/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Pasiones
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0ld/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",RJFV Jesucristo TV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0r6/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",RT
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a07j/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Sol TV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0ss/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",STAR CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0lb/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0ln/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TABER TV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0mb/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TCS 5
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qx/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Telecadena 7/4
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a07n/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Telehit
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0sh/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Telehit Musica
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0sf/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TELEMICRO
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qz/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TELESUR HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0lg/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TNT
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rn/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TNT NOVELAS
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0le/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TNT Series
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0l8/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Tooncast
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0su/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TRV
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0re/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TCM
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0nu/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TV Cret
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a06k/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TV GETSEMANI
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0rg/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TVMAX-24
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0pp/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TVM25
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0nx/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",TVO
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0qo/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Universal Channel
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0o3/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",Univision HD
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0la/index.m3u8
+#EXTINF:0 group-title="ASTRA EL SALVADOR",ZooMoo
+#EXTVLCOPT:network-caching=1000
+http://45.167.2.101:8000/play/a0so/index.m3u8
