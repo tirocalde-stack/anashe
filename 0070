@@ -9814,3 +9814,305 @@ http://200.59.188.3:8000/play/a12m
 #EXTINF:0 tvg-id="" group-title="ASTRA VARIOS",update_cnx_co
 #EXTVLCOPT:network-caching=1000
 http://200.59.188.3:8000/play/a194
+
+
+
+#EXTINF:11 tvg-id="Canal26.ar" group-title="MultiEPG LATAM",Canal 26
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01r/index.m3u8?hls
+#EXTINF:0 tvg-id="ElNueve.ar" group-title="MultiEPG LATAM",Canal 9
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0bl/index.m3u8?hls
+#EXTINF:0 tvg-id="AELatinAmerica.us@South" group-title="MultiEPG LATAM",A&E
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05i/index.m3u8?hls
+#EXTINF:0 tvg-id="A24.ar" group-title="MultiEPG LATAM",A24
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01o/index.m3u8?hls
+#EXTINF:0 tvg-id="AmericaSports.ar" group-title="MultiEPG LATAM",América Sports
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01v/index.m3u8?hls
+#EXTINF:0 tvg-id="AMCLatinAmerica.us" group-title="MultiEPG LATAM",AMC
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01z/index.m3u8?hls
+#EXTINF:0 tvg-id="AmericaTV.ar" group-title="MultiEPG LATAM",América TV
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a055/index.m3u8?hls
+#EXTINF:0 tvg-id="ar#axn" group-title="MultiEPG LATAM",AXN
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05f/index.m3u8?hls
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="MultiEPG LATAM",BabyTV
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02e/index.m3u8?hls
+#EXTINF:0 tvg-id="C5N.ar" group-title="MultiEPG LATAM",C5N
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01p/index.m3u8?hls
+#EXTINF:0 tvg-id="CanalA.ar" group-title="MultiEPG LATAM",Canal á
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a09j/index.m3u8?hls
+#EXTINF:0 tvg-id="CanaldelaCiudad.ar" group-title="MultiEPG LATAM",Canal de la Ciudad
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06e/index.m3u8?hls
+#EXTINF:0 tvg-id="CanalLuz.ar" group-title="MultiEPG LATAM",Canal Luz
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0bi/index.m3u8?hls
+#EXTINF:0 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlantic" group-title="MultiEPG LATAM",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a075/index.m3u8?hls
+#EXTINF:0 tvg-id="CineAr.ar" group-title="MultiEPG LATAM",CineAr
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a024/index.m3u8?hls
+#EXTINF:0 tvg-id="Cinecanal.ar" group-title="MultiEPG LATAM",Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a07b/index.m3u8?hls
+#EXTINF:0 tvg-id="CinemaxLatinAmerica.us" group-title="MultiEPG LATAM",Cinemax
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a04s/index.m3u8?hls
+#EXTINF:0 tvg-id="CiudadMagazine.ar" group-title="MultiEPG LATAM",Ciudad Magazine
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02h/index.m3u8?hls
+#EXTINF:0 tvg-id="CNNenEspanol.us" group-title="MultiEPG LATAM",CNN en Español
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a054/index.m3u8?hls
+#EXTINF:0 tvg-id="ComedyCentral.ar" group-title="MultiEPG LATAM",Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02x/index.m3u8?hls
+#EXTINF:0 tvg-id="CronicaTV.ar" group-title="MultiEPG LATAM",Cronica
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01q/index.m3u8?hls
+#EXTINF:0 tvg-id="DeporTV.ar" group-title="MultiEPG LATAM",DeporTV
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06h/index.m3u8?hls
+#EXTINF:0 tvg-id="DiscoveryChannelLatinAmerica.us@South" group-title="MultiEPG LATAM",Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a07i/index.m3u8?hls
+#EXTINF:0 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" group-title="MultiEPG LATAM",Discovery Home & Health
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a07h/index.m3u8?hls
+#EXTINF:0 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06t/index.m3u8?hls
+#EXTINF:0 tvg-id="DiscoveryScienceLatinAmerica.us" group-title="MultiEPG LATAM",Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02k/index.m3u8?hls
+#EXTINF:0 tvg-id="DiscoveryTheaterLatinAmerica.us" group-title="MultiEPG LATAM",Discovery Theater
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02z/index.m3u8?hls
+#EXTINF:0 tvg-id="DiscoveryTurboLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01w/index.m3u8?hls
+#EXTINF:0 tvg-id="DiscoveryWorld.us@LatinAmerica" group-title="MultiEPG LATAM",Discovery World
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a031/index.m3u8?hls
+#EXTINF:0 tvg-id="DisneyChannelLatinAmerica.ar@South" group-title="MultiEPG LATAM",Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02r/index.m3u8?hls
+#EXTINF:0 tvg-id="ar#disney-jr" group-title="MultiEPG LATAM",Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a04y/index.m3u8?hls
+#EXTINF:0 tvg-id="ELatinAmerica.us@Andes" group-title="MultiEPG LATAM",E!
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a050/index.m3u8?hls
+#EXTINF:0 tvg-id="LasEstrellasLatinAmerica.mx" group-title="MultiEPG LATAM",Las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06z/index.m3u8?hls
+#EXTINF:0 tvg-id="ElGourmet.ar@South" group-title="MultiEPG LATAM",El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06w/index.m3u8?hls
+#EXTINF:0 tvg-id="ElNueve.ar" group-title="MultiEPG LATAM",Canal 9
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a04h/index.m3u8?hls
+#EXTINF:0 tvg-id="ElTrece.ar" group-title="MultiEPG LATAM",Canal 13
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
+#EXTINF:0 tvg-id="Encuentro.ar" group-title="MultiEPG LATAM",Encuentro
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01m/index.m3u8?hls
+#EXTINF:0 tvg-id="Enlace.us" group-title="MultiEPG LATAM",Enlace
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0bh/index.m3u8?hls
+#EXTINF:0 tvg-id="ar#espn" group-title="MultiEPG LATAM",ESPN
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05a/index.m3u8?hls
+#EXTINF:0 tvg-id="ar#espn-2" group-title="MultiEPG LATAM",ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a059/index.m3u8?hls
+#EXTINF:0 tvg-id="ar#espn-3" group-title="MultiEPG LATAM",ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05b/index.m3u8?hls
+#EXTINF:0 tvg-id="ar#espn-4" group-title="MultiEPG LATAM",ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a076/index.m3u8?hls
+#EXTINF:-1 tvg-id="ESPNPremium.ar" group-title="Deportes",ESPN Premium
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a078/index.m3u8?hls
+#EXTINF:0 tvg-id="EuropaEuropa.ar" group-title="MultiEPG LATAM",Europa Europa
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06v/index.m3u8?hls
+#EXTINF:0 tvg-id="FilmArts.ar@Panregional" group-title="MultiEPG LATAM",film&arts
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a030/index.m3u8?hls
+#EXTINF:0 tvg-id="FoxSports2.ar" group-title="MultiEPG LATAM",FOX Sports 2
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05c/index.m3u8?hls
+#EXTINF:0 tvg-id="FoxSports3LatinAmerica.us@Panregional" group-title="MultiEPG LATAM",FOX Sports 3
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02t/index.m3u8?hls
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="MultiEPG LATAM",FOX Sports HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a07j/index.m3u8?hls
+#EXTINF:0 tvg-id="FX.ar" group-title="MultiEPG LATAM",FX
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02v/index.m3u8?hls
+#EXTINF:0 tvg-id="GaliciaTVAmerica.es" group-title="MultiEPG LATAM",Galicia TV
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02q/index.m3u8?hls
+#EXTINF:0 tvg-id="ar#hbo" group-title="MultiEPG LATAM",HBO
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06o/index.m3u8?hls
+#EXTINF:0 tvg-id="HBO2LatinAmerica.us" group-title="MultiEPG LATAM",HBO 2
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06q/index.m3u8?hls
+#EXTINF:0 tvg-id="HBOFamilyLatinAmerica.us" group-title="MultiEPG LATAM",HBO Family
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06r/index.m3u8?hls
+#EXTINF:0 tvg-id="HBOMundiLatinAmerica.us" group-title="MultiEPG LATAM",HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02a/index.m3u8?hls
+#EXTINF:0 tvg-id="HBOPlusLatinAmerica.us" group-title="MultiEPG LATAM",HBO Plus (Panamericano HD)
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06p/index.m3u8?hls
+#EXTINF:0 tvg-id="HBOSignatureLatinAmerica.us" group-title="MultiEPG LATAM",HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02c/index.m3u8?hls
+#EXTINF:0 tvg-id="HBOXtremeLatinAmerica.us" group-title="MultiEPG LATAM",HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02b/index.m3u8?hls
+#EXTINF:0 tvg-id="HGTVLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",HGTV
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02j/index.m3u8?hls
+#EXTINF:0 tvg-id="History2LatinAmerica.us@Panregional" group-title="MultiEPG LATAM",History 2
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0ab/index.m3u8?hls
+#EXTINF:0 tvg-id="HistoryLatinAmerica.us@South" group-title="MultiEPG LATAM",History
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a051/index.m3u8?hls
+#EXTINF:0 tvg-id="HTV.us" group-title="MultiEPG LATAM",HTV
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02o/index.m3u8?hls
+#EXTINF:0 tvg-id="LaNacionPlus.ar" group-title="MultiEPG LATAM",LN+
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01s/index.m3u8?hls
+#EXTINF:0 tvg-id="LaTele.ve" group-title="MultiEPG LATAM",La Tele
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0a8/index.m3u8?hls
+#EXTINF:0 tvg-id="LifetimeLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",Lifetime
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06n/index.m3u8?hls
+#EXTINF:0 tvg-id="Metro.ar" group-title="MultiEPG LATAM",Metro
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02g/index.m3u8?hls
+#EXTINF:0 tvg-id="MTVLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",MTV
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02m/index.m3u8?hls
+#EXTINF:0 tvg-id="MTV00s.uk" group-title="MultiEPG LATAM",MTV 00s
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a053/index.m3u8?hls
+#EXTINF:0 tvg-id="StarChannelLatinAmerica.us@South" group-title="MultiEPG LATAM",Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05g/index.m3u8?hls
+#EXTINF:0 tvg-id="NickJrLatinAmerica.us@South" group-title="MultiEPG LATAM",Nick Jr.
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06u/index.m3u8?hls
+#EXTINF:0 tvg-id="NickelodeonLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",Nick
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a04z/index.m3u8?hls
+#EXTINF:0 tvg-id="NuevoTiempo.cl" group-title="MultiEPG LATAM",Nuevo Tiempo
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0bj/index.m3u8?hls
+#EXTINF:0 tvg-id="Pakapaka.ar" group-title="MultiEPG LATAM",Pakapaka
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a01n/index.m3u8?hls
+#EXTINF:0 tvg-id="ParamountNetworkLatinAmerica.us@Panregional" group-title="MultiEPG LATAM",Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02y/index.m3u8?hls
+#EXTINF:0 tvg-id="QuieroMusicaenmiIdioma.ar" group-title="MultiEPG LATAM",Quiero Música en mi Idioma
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02n/index.m3u8?hls
+#EXTINF:0 tvg-id="RaiItalia.it@America" group-title="MultiEPG LATAM",Rai Italia
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02p/index.m3u8?hls
+#EXTINF:0 tvg-id="RT.ar" group-title="MultiEPG LATAM",RT en Español
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0ac/index.m3u8?hls
+#EXTINF:0 tvg-id="Rural.ar" group-title="MultiEPG LATAM",Canal Rural
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02f/index.m3u8?hls
+#EXTINF:0 tvg-id="SonyChannelAndes.us" group-title="MultiEPG LATAM",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05d/index.m3u8?hls
+#EXTINF:0 tvg-id="SonyMovies.us" group-title="MultiEPG LATAM",Sony Movies
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05k/index.m3u8?hls
+#EXTINF:0 tvg-id="Space.ar@Panregional" group-title="MultiEPG LATAM",Space
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02w/index.m3u8?hls
+#EXTINF:0 tvg-id="StarChannelLatinAmerica.us@South" group-title="MultiEPG LATAM",Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a079/index.m3u8?hls
+#EXTINF:0 tvg-id="StudioUniversal.ar" group-title="MultiEPG LATAM",Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a022/index.m3u8?hls
+#EXTINF:0 tvg-id="TCMLatinAmerica.us@South" group-title="MultiEPG LATAM",TCM
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a020/index.m3u8?hls
+#EXTINF:11 tvg-id="Telefe.ar" group-title="MultiEPG LATAM",Telefe
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a06c/index.m3u8?hls
+#EXTINF:0 tvg-id="HistoryLatinAmerica.us@South" group-title="MultiEPG LATAM",History
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05h/index.m3u8?hls
+#EXTINF:0 tvg-id="TLNovelas.mx" group-title="MultiEPG LATAM",TLNovelas
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0bm/index.m3u8?hls
+#EXTINF:0 tvg-id="TN.ar" group-title="MultiEPG LATAM",TN
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a058/index.m3u8?hls
+#EXTINF:0 tvg-id="TNTLatinAmerica.us@South" group-title="MultiEPG LATAM",TNT
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a07d/index.m3u8?hls
+#EXTINF:0 tvg-id="TNTNovelas.us" group-title="MultiEPG LATAM",TNT Novelas
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a07g/index.m3u8?hls
+#EXTINF:0 tvg-id="TNTSeriesLatinAmerica.us@South" group-title="MultiEPG LATAM",TNT Series
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a07e/index.m3u8?hls
+#EXTINF:0 tvg-id="TNTSports.ar" group-title="MultiEPG LATAM",TNT Sports
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
+#EXTINF:0 tvg-id="ar#canal-7-hd" group-title="MultiEPG LATAM",Televisión Pública
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a056/index.m3u8?hls
+#EXTINF:0 tvg-id="TVEInternacionalAmerica.es" group-title="MultiEPG LATAM",TVE Internacional
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a072/index.m3u8?hls
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="MultiEPG LATAM",TyC Sports
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a02s/index.m3u8?hls
+#EXTINF:0 tvg-id="UniversalTVLatinAmerica.us@South" group-title="MultiEPG LATAM",Universal TV
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05j/index.m3u8?hls
+#EXTINF:0 tvg-id="USANetworkLatinAmerica.us" group-title="MultiEPG LATAM",USA Network
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a023/index.m3u8?hls
+#EXTINF:0 tvg-id="Volver.ar" group-title="MultiEPG LATAM",Volver
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a021/index.m3u8?hls
+#EXTINF:0 tvg-id="VTV.uy" group-title="MultiEPG LATAM",VTV
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a0aa/index.m3u8?hls
+#EXTINF:0 tvg-id="WarnerChannel.us@South" group-title="MultiEPG LATAM",Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://181.13.252.102:8000/play/a05e/index.m3u8?hls
+
+
