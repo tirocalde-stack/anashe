@@ -127,6 +127,39 @@ http://181.13.252.102:8000/play/a050/index.m3u8
 #EXTINF:0,TyC Sports HD
 #EXTVLCOPT:network-caching=1000
 http://181.13.252.102:8000/play/a02s/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS HD
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS HD 2
+http://38.188.100.18:8000/play/a05m/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS OP1
+http://190.242.61.125:8000/play/a0kz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS OP2
+http://38.210.3.72:9999/play/a0br
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS OP3
+http://38.226.210.46:8000/play/A008/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="DSPORTS", DSPORTS 2 HD
+http://38.224.175.2:8000/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="DSPORTS", DSPORTS 2 OP2
+http://190.242.61.125:8000/play/a0lb/index.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS + HD
+http://38.224.175.2:8000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS + HD 2
+http://38.188.100.18:8000/play/a0o8/index.m3u8
+
+
+
 #EXTINF:0,Dsport HD ENC
 #EXTVLCOPT:network-caching=1000
 http://177.53.152.117:8000/play/a07d/index.m3u8
