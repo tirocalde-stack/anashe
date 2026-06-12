@@ -103,204 +103,174 @@ https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 
 ASTRA ARGENTINA 1 
 
-
-#EXTINF:0 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/vHdfyO4.png" group-title="ASTRA ARGENTINA 1",CANAL 26 HD
-http://45.5.151.62:8000/play/a004/index.m3u8
-
-#EXTINF:0 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.com/T0bHThm.png" group-title="ASTRA ARGENTINA 1",TN HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a058/index.m3u8
-
-#EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://i.imgur.com/eBf2g1Z.png" group-title="ASTRA ARGENTINA 1",C5N
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01p/index.m3u8
-
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="ASTRA ARGENTINA 1",LN+ 🇦🇷 (Op. 1)
 https://val04.ride.com.ar/tvmia/an14/playlist.m3u8
 
-#EXTINF:0 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/XqT7X9X.png" group-title="ASTRA ARGENTINA 1",A24 HD
-http://45.5.151.62:8000/play/a002/index.m3u8
 
-#EXTINF:0 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/YhZ6L0q.png" group-title="ASTRA ARGENTINA 1",Telefe HD
+#EXTINF:11 group-title="ASTRA ARGENTINA 1",26TV
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06c/index.m3u8
-
-#EXTINF:0 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://i.imgur.com/X4uV74q.png" group-title="ASTRA ARGENTINA 1",America TV HD
+http://190.7.19.197:232/play/a042/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",A24
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a055/index.m3u8
-
-#EXTINF:0 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://i.imgur.com/y3nZWh4.png" group-title="ASTRA ARGENTINA 1",CRONICA HD
-http://45.5.151.62:8000/play/a003/index.m3u8
-
-#EXTINF:0 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/gK1q9XG.png" group-title="ASTRA ARGENTINA 1",el nueve HD
+http://190.7.19.197:232/play/a03z/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",C5N
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04h/index.m3u8
-
-#EXTINF:0 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/K3Z9XqG.png" group-title="ASTRA ARGENTINA 1",el trece HD
+http://190.7.19.197:232/play/a040/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",Crðnica
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bg/index.m3u8
-
-#EXTINF:0 tvg-id="TrecePY.py" tvg-name="Trece PY" group-title="ASTRA ARGENTINA 1",Trece HD PY
+http://190.7.19.197:232/play/a041/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",TN HD
 #EXTVLCOPT:network-caching=1000
-http://45.184.111.106:8000/play/a0iu/index.m3u8?hls
-
-#EXTINF:0 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-logo="https://i.imgur.com/Y3xZWh4.png" group-title="ASTRA ARGENTINA 1",TV Publica HD
+http://190.7.19.197:232/play/a03l/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",America TV HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a056/index.m3u8
-
-#EXTINF:0 tvg-id="AE.channels" tvg-name="A&amp;E" group-title="ASTRA ARGENTINA 1",A&amp;E HD
+http://190.7.19.197:232/play/a03b/index.m3u8
+#EXTINF:11 group-title="ASTRA ARGENTINA 1",Telefe HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05i/index.m3u8
-
-#EXTINF:0 tvg-id="AMSports.ar" tvg-name="AM Sports" group-title="ASTRA ARGENTINA 1",AM Sports
+http://190.7.19.197:232/play/a059/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",El Trece HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01v/index.m3u8
-
-#EXTINF:0 tvg-id="AMC.channels" tvg-name="AMC" group-title="ASTRA ARGENTINA 1",AMC
+http://190.7.19.197:232/play/a05a/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",El Nueve HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01z/index.m3u8
-
-#EXTINF:0 tvg-id="AXN.channels" tvg-name="AXN" group-title="ASTRA ARGENTINA 1",AXN HD
+http://190.7.19.197:232/play/a03k/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",TV Publica HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05f/index.m3u8
-
-#EXTINF:0 tvg-id="BabyTV.channels" tvg-name="Baby TV" group-title="ASTRA ARGENTINA 1",Baby TV
+http://190.7.19.197:232/play/a03c/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",IP
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02e/index.m3u8
-
-#EXTINF:0 tvg-id="CNNenEspanol.channels" tvg-name="CNN en Espanol" group-title="ASTRA ARGENTINA 1",CNN en Espa ol
+http://190.7.19.197:232/play/a00o/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",CN23
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a054/index.m3u8
-
-#EXTINF:0 tvg-id="CanalLuz.ar" tvg-name="Canal Luz" group-title="ASTRA ARGENTINA 1",Canal Luz HD
+http://190.7.19.197:232/play/a084/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",EL DESTAPE TV
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bi/index.m3u8
-
-#EXTINF:0 tvg-id="Canala.ar" tvg-name="Canal a" group-title="ASTRA ARGENTINA 1",Canal a
+http://190.7.19.197:232/play/a00r/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",Canal E
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a09j/index.m3u8
-
-#EXTINF:0 tvg-id="CanaldelaCiudad.ar" tvg-name="Canal de la Ciudad" group-title="ASTRA ARGENTINA 1",Canal de la Ciudad
+http://190.7.19.197:232/play/a08t/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",Canal de la Ciudad
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06e/index.m3u8
-
-#EXTINF:0 tvg-id="CartoonNetwork.channels" tvg-name="Cartoon Network" group-title="ASTRA ARGENTINA 1",Cartoon Network HD
+http://190.7.19.197:232/play/a01j/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",NET TV
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a075/index.m3u8
-
-#EXTINF:0 tvg-id="Cinear.ar" tvg-name="Cine.AR" group-title="ASTRA ARGENTINA 1",Cine.AR
+http://190.7.19.197:232/play/a095/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",AIRE SANTA FE
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a024/index.m3u8
-
-#EXTINF:0 tvg-id="Cinecanal.channels" tvg-name="Cinecanal" group-title="ASTRA ARGENTINA 1",Cinecanal HD
+http://190.7.19.197:232/play/a08r/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",CANAL 11 PARANA
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07b/index.m3u8
-
-#EXTINF:0 tvg-id="Cinemax.channels" tvg-name="Cinemax" group-title="ASTRA ARGENTINA 1",Cinemax
+http://190.7.19.197:232/play/a006/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",CANAL 6 CRESPO
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04s/index.m3u8
-
-#EXTINF:0 tvg-id="ComedyCentral.channels" tvg-name="Comedy Central" group-title="ASTRA ARGENTINA 1",Comedy Central HD
+http://190.7.19.197:232/play/a001/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",CANAL 9 PARANA
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02x/index.m3u8
-
-#EXTINF:0 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="ASTRA ARGENTINA 1",DeporTV
+http://190.7.19.197:232/play/a0lo/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",T5
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06h/index.m3u8
+http://190.7.19.197:232/play/a01v/index.m3u8
 
-#EXTINF:0 tvg-id="Discovery.channels" tvg-name="Discovery Channel" group-title="ASTRA ARGENTINA 1",Discovery Channel HD
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",AM Sports
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07i/index.m3u8
-
-#EXTINF:0 tvg-id="DiscoveryHH.channels" tvg-name="Discovery Home &amp; Health" group-title="ASTRA ARGENTINA 1",Discovery H&amp;H HD
+http://190.7.19.197:232/play/a044/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",DeporTV
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07h/index.m3u8
-
-#EXTINF:0 tvg-id="DiscoveryKids.channels" tvg-name="Discovery Kids" group-title="ASTRA ARGENTINA 1",Discovery Kids
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06t/index.m3u8
-
-#EXTINF:0 tvg-id="DiscoveryScience.channels" tvg-name="Discovery Science" group-title="ASTRA ARGENTINA 1",Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02k/index.m3u8
-
-#EXTINF:0 tvg-id="DiscoveryTheater.channels" tvg-name="Discovery Theater" group-title="ASTRA ARGENTINA 1",Discovery Theater HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02z/index.m3u8
-
-#EXTINF:0 tvg-id="DiscoveryTurbo.channels" tvg-name="Discovery Turbo" group-title="ASTRA ARGENTINA 1",Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01w/index.m3u8
-
-#EXTINF:0 tvg-id="DiscoveryWorld.channels" tvg-name="Discovery World" group-title="ASTRA ARGENTINA 1",Discovery World HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a031/index.m3u8
-
-#EXTINF:0 tvg-id="DisneyChannel.channels" tvg-name="Disney Channel" group-title="ASTRA ARGENTINA 1",Disney Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02r/index.m3u8
-
-#EXTINF:0 tvg-id="DisneyJunior.channels" tvg-name="Disney Junior" group-title="ASTRA ARGENTINA 1",Disney Junior
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04y/index.m3u8
-
-#EXTINF:0 tvg-id="EEntertainment.channels" tvg-name="E! Entertainment" group-title="ASTRA ARGENTINA 1",E! Entertainment
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a050/index.m3u8
-
-#EXTINF:0 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="ASTRA ARGENTINA 1",TyC Sports HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02s/index.m3u8
+http://190.7.19.197:232/play/a05d/index.m3u8
 
 
-#EXTINF:0 tvg-id="DSports.cl" tvg-name="DSPORTS" group-title="ASTRA ARGENTINA 1",Dsport HD ENC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1(MENOS DELAY)
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1(MENOS DELAY)
+http://209.14.108.45:8000/play/a0br
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 HD OP1
+http://177.53.152.117:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 SD OP1
+http://181.64.27.65:8000/play/a0cq/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 HD OP2
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 SD OP2
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 HD OP3
+http://38.188.100.18:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 SD OP3
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 HD OP4
+http://38.210.3.72:9999/play/a0br
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 SD OP4
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 HD OP5
+http://181.64.27.65:8000/play/a0cq/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 SD OP5
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 HD OP6
+http://38.187.7.251:8000/play/a0hz/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 SD OP6
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 HD OP7
+http://190.108.83.69:8000/play/a0cb/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS1 SD OP7
 http://177.53.152.117:8000/play/a07d/index.m3u8
-
-#EXTINF:0 tvg-id="DSports2.cl" tvg-name="DSPORTS 2" group-title="ASTRA ARGENTINA 1",Dsport HD 2
-http://38.252.213.9:8000/play/a00f
-
-#EXTINF:0 tvg-id="DSportsPlus.cl" tvg-name="DSPORTS +" group-title="ASTRA ARGENTINA 1",DSPORTS EXTRA HD 
-http://181.66.249.25:8000/play/a0gq/index.m3u8.
-
-#EXTINF:0 tvg-id="ESPN.channels" tvg-name="ESPN" group-title="ASTRA ARGENTINA 1",ESPN HD
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS2 HD OP1
+http://190.108.83.69:8000/play/a0c6/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS2 SD OP1
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS + HD OP1
+http://38.188.100.18:8000/play/a0o8/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS + HD OP2
+http://38.187.7.251:8000/play/a0i0/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS+ HD OP3
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS+ HD OP4
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:11 group-title="ASTRA ARGENTINA 1",ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05a/index.m3u8
-
-#EXTINF:0 tvg-id="ESPN2.channels" tvg-name="ESPN 2" group-title="ASTRA ARGENTINA 1",ESPN 2 HD
+http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a059/index.m3u8
-
-#EXTINF:0 tvg-id="ESPN3.channels" tvg-name="ESPN 3" group-title="ASTRA ARGENTINA 1",ESPN 3 HD
+http://190.7.19.197:232/play/a03m/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05b/index.m3u8
-
-#EXTINF:0 tvg-id="ESPN4.channels" tvg-name="ESPN 4" group-title="ASTRA ARGENTINA 1",ESPN 4 HD
+http://190.7.19.197:232/play/a03o/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",ESPN 4 HD
 #EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a076/index.m3u8
-
-#EXTINF:0 tvg-id="ESPN5.channels" tvg-name="ESPN 5" group-title="ASTRA ARGENTINA 1",ESPN 5 HD
+http://190.7.19.197:232/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 5
+http://181.118.158.103:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 6
+http://181.118.158.103:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 7
+http://181.118.158.103:8000/play/a03e/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",ESPN Premium HD
 #EXTVLCOPT:network-caching=1000
-http://177.53.152.117:8000/play/a049/index.m3u8
-
-#EXTINF:0 tvg-id="ESPN6.channels" tvg-name="ESPN 6" group-title="ASTRA ARGENTINA 1",ESPN 6 HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.152.117:8000/play/a043/index.m3u8
-
-#EXTINF:0 tvg-id="ESPN7.channels" tvg-name="ESPN 7" group-title="ASTRA ARGENTINA 1",ESPN 7 HD
-#EXTVLCOPT:network-caching=1000
-http://177.53.152.117:8000/play/a0f1/index.m3u8
-
-#EXTINF:11 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="ASTRA ARGENTINA 1",ESPN Premium HD ARGETINA
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a078/index.m3u8
-
+http://190.7.19.197:232/play/a038/index.m3u8
 #EXTINF:0 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="ASTRA ARGENTINA 1",ESPN Premium HD (CHAMPIONS,LIBERTADORES F1)
 #EXTVLCOPT:network-caching=1000
 http://177.53.152.117:8000/play/a091/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM CHI
 http://186.33.40.97:8789/play/22 
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05u/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03p/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04x/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",TNT Sports HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a037/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",TyC Sports HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04w/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",EL GARAGE
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a034/index.m3u8
+#EXTINF:0 group-title="ASTRA ARGENTINA 1",Eventos HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a022/index.m3u8
+
 
 
 #EXTINF:0,ESPN HD
@@ -387,666 +357,11 @@ http://181.118.158.103:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 4
 http://181.118.158.103:8000/play/a03b/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 5
-http://181.118.158.103:8000/play/a03c/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 6
-http://181.118.158.103:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 7
-http://181.118.158.103:8000/play/a03e/index.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo=#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="FLOW2",DSPORTS 1 FLOW HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=4db80473af2ed318c41d879f2822203e:d30f94e60344adf0f4b242a5952575ad
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd
-
-
-
-#EXTINF:-1 tvg-logo=#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="FLOW2",DSPORTS 2 FLOW HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=0dd493fa74640442abd75139b67307d6:31cf4295392d939a97f3b60ebf1ceb44
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_2/SA_Live_dash_enc_wl/DSports_2.mpd
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS HD
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS HD 2
-http://38.188.100.18:8000/play/a05m/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS OP1
-http://190.242.61.125:8000/play/a0kz/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS OP2
-http://38.210.3.72:9999/play/a0br
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS OP3
-http://38.226.210.46:8000/play/A008/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="DSPORTS", DSPORTS 2 HD
-http://38.224.175.2:8000/play/a066/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="DSPORTS", DSPORTS 2 OP2
-http://190.242.61.125:8000/play/a0lb/index.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS + HD
-http://38.224.175.2:8000/play/a011/index.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS + HD 2
-http://38.188.100.18:8000/play/a0o8/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://181.64.27.65:8000/play/a0cq/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://177.53.152.117:8000/play/a07f/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://148.222.230.201:8000/play/a0pk/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS 
-http://190.238.43.117:8000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS 
-http://179.43.96.253:8000/play/a24w/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="DSPORTS", DSPORTS 2
-http://190.238.43.117:8000/play/a09g/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DSPORTS", DSPORTS +
-http://190.238.43.117:8000/play/a09f/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://148.222.230.201:8000/play/a0pk/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://181.64.27.65:8000/play/a0cq/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://179.43.96.253:8000/play/a24w/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://191.97.59.33:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://179.43.96.253:8000/play/a24w/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://191.97.59.33:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://38.187.7.251:8000/play/a0e9/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://177.53.152.117:8000/play/a07d/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://209.14.108.45:8000/play/a0br
-
-#EXTINF:0 tvg-id="TNTSports.ar" tvg-name="TNT Sports" group-title="ASTRA ARGENTINA 1",TNT Sports HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bc/index.m3u8
-
-#EXTINF:0 tvg-id="LasEstrellas.channels" tvg-name="El Canal de las Estrellas" group-title="ASTRA ARGENTINA 1",El Canal  de las Estrellas
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06z/index.m3u8
-
-#EXTINF:0 tvg-id="ElGourmet.channels" tvg-name="El Gourmet" group-title="ASTRA ARGENTINA 1",El Gourmet
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06w/index.m3u8
-
-#EXTINF:0 tvg-id="Encuentro.ar" tvg-name="Encuentro" group-title="ASTRA ARGENTINA 1",Encuentro
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01m/index.m3u8
-
-#EXTINF:0 tvg-id="Enlace.channels" tvg-name="Enlace" group-title="ASTRA ARGENTINA 1",Enlace SD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bh/index.m3u8
-
-#EXTINF:0 tvg-id="EuropaEuropa.channels" tvg-name="Europa Europa" group-title="ASTRA ARGENTINA 1",Europa Europa
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06v/index.m3u8
-
-#EXTINF:0 tvg-id="EventosHD.ar" tvg-name="Eventos HD" group-title="ASTRA ARGENTINA 1",Eventos HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0af/index.m3u8
-
-#EXTINF:0 tvg-id="EventosHD2.ar" tvg-name="Eventos para todos" group-title="ASTRA ARGENTINA 1",Eventos para todos HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0ag/index.m3u8
-
-#EXTINF:0 tvg-id="FX.channels" tvg-name="FX" group-title="ASTRA ARGENTINA 1",FX HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02v/index.m3u8
-
-#EXTINF:0 tvg-id="FilmAndArts.channels" tvg-name="Film &amp; Arts" group-title="ASTRA ARGENTINA 1",Film &amp; Arts HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a030/index.m3u8
-
-#EXTINF:0 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" group-title="ASTRA ARGENTINA 1",Fox Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05c/index.m3u8
-
-#EXTINF:0 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3" group-title="ASTRA ARGENTINA 1",Fox Sports 3 HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02t/index.m3u8
-
-#EXTINF:0 tvg-id="FoxSports.ar" tvg-name="Fox Sports" group-title="ASTRA ARGENTINA 1",Fox Sports HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07j/index.m3u8
-
-#EXTINF:0 tvg-id="GaliciaTV.channels" tvg-name="Galicia TV" group-title="ASTRA ARGENTINA 1",Galicia TV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02q/index.m3u8
-
-#EXTINF:0 tvg-id="HBO.channels" tvg-name="HBO" group-title="ASTRA ARGENTINA 1",HBO
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06o/index.m3u8
-
-#EXTINF:0 tvg-id="HBO2.channels" tvg-name="HBO 2" group-title="ASTRA ARGENTINA 1",HBO 2
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06q/index.m3u8
-
-#EXTINF:0 tvg-id="HBOXtreme.channels" tvg-name="HBO Xtreme" group-title="ASTRA ARGENTINA 1",HBO Family
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06r/index.m3u8
-
-#EXTINF:0 tvg-id="HBOMundi.channels" tvg-name="HBO Mundi" group-title="ASTRA ARGENTINA 1",HBO Mundi
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02a/index.m3u8
-
-#EXTINF:0 tvg-id="HBOPlus.channels" tvg-name="HBO Plus" group-title="ASTRA ARGENTINA 1",HBO Plus
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06p/index.m3u8
-
-#EXTINF:0 tvg-id="Hbosignature.channels" tvg-name="HBO Signature" group-title="ASTRA ARGENTINA 1",HBO Signature
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02c/index.m3u8
-
-#EXTINF:0 tvg-id="HBOXtreme.channels" tvg-name="HBO Xtreme" group-title="ASTRA ARGENTINA 1",HBO Xtreme
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02b/index.m3u8
-
-#EXTINF:0 tvg-id="HGTV.channels" tvg-name="HGTV" group-title="ASTRA ARGENTINA 1",HGTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02j/index.m3u8
-
-#EXTINF:0 tvg-id="HTV.channels" tvg-name="HTV" group-title="ASTRA ARGENTINA 1",HTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02o/index.m3u8
-
-#EXTINF:0 tvg-id="History2.channels" tvg-name="History 2" group-title="ASTRA ARGENTINA 1",History 2
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0ab/index.m3u8
-
-#EXTINF:0 tvg-id="History.channels" tvg-name="History Channel" group-title="ASTRA ARGENTINA 1",History Channel
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a051/index.m3u8
-
-#EXTINF:0 tvg-id="LaTele.py" tvg-name="La Tele PY" group-title="ASTRA ARGENTINA 1",La Tele
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0a8/index.m3u8
-
-#EXTINF:0 tvg-id="Lifetime.channels" tvg-name="Lifetime" group-title="ASTRA ARGENTINA 1",Lifetime
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06n/index.m3u8
-
-#EXTINF:0 tvg-id="MTV.channels" tvg-name="MTV" group-title="ASTRA ARGENTINA 1",MTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02m/index.m3u8
-
-#EXTINF:0 tvg-id="MTV00s.channels" tvg-name="MTV 00s" group-title="ASTRA ARGENTINA 1",MTV 00
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a053/index.m3u8
-
-#EXTINF:0 tvg-id="Metro.ar" tvg-name="Metro" group-title="ASTRA ARGENTINA 1",Metro
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02g/index.m3u8
-
-#EXTINF:0 tvg-id="NatGeo.channels" tvg-name="Nat Geo" group-title="ASTRA ARGENTINA 1",Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05g/index.m3u8
-
-#EXTINF:0 tvg-id="NickJr.channels" tvg-name="Nick Jr" group-title="ASTRA ARGENTINA 1",Nick Jr
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06u/index.m3u8
-
-#EXTINF:0 tvg-id="Nickelodeon.channels" tvg-name="Nickelodeon" group-title="ASTRA ARGENTINA 1",Nickelodeon
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04z/index.m3u8
-
-#EXTINF:0 tvg-id="NuevoTiempo.channels" tvg-name="Nuevo Tiempo" group-title="ASTRA ARGENTINA 1",Nuevo Tiempo HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bj/index.m3u8
-
-#EXTINF:0 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="ASTRA ARGENTINA 1",Pakapaka
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01n/index.m3u8
-
-#EXTINF:0 tvg-id="Paramount.channels" tvg-name="Paramount Network" group-title="ASTRA ARGENTINA 1",Paramount HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02y/index.m3u8
-
-#EXTINF:0 tvg-id="Quiero.ar" tvg-name="Quiero Musica" group-title="ASTRA ARGENTINA 1",Quiero Musica
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02n/index.m3u8
-
-#EXTINF:0 tvg-id="RaiItalia.channels" tvg-name="RAI Italia" group-title="ASTRA ARGENTINA 1",RAI Italia
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02p/index.m3u8
-
-#EXTINF:0 tvg-id="RTespana.channels" tvg-name="RT en Espanol" group-title="ASTRA ARGENTINA 1",RT en Espa ol
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0ac/index.m3u8
-
-#EXTINF:0 tvg-id="CanalRural.ar" tvg-name="Canal Rural" group-title="ASTRA ARGENTINA 1",Rural
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02f/index.m3u8
-
-#EXTINF:0 tvg-id="Sony.channels" tvg-name="Sony Channel" group-title="ASTRA ARGENTINA 1",Sony HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05d/index.m3u8
-
-#EXTINF:0 tvg-id="SonyMovies.channels" tvg-name="Sony Movies" group-title="ASTRA ARGENTINA 1",Sony Movies HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05k/index.m3u8
-
-#EXTINF:0 tvg-id="Space.channels" tvg-name="Space" group-title="ASTRA ARGENTINA 1",Space HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02w/index.m3u8
-
-#EXTINF:0 tvg-id="StarChannel.channels" tvg-name="Star Channel" group-title="ASTRA ARGENTINA 1",Star Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a079/index.m3u8
-
-#EXTINF:0 tvg-id="StudioUniversal.channels" tvg-name="Studio Universal" group-title="ASTRA ARGENTINA 1",Studio Universal
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a022/index.m3u8
-
-#EXTINF:0 tvg-id="TCM.channels" tvg-name="TCM" group-title="ASTRA ARGENTINA 1",TCM
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a020/index.m3u8
-
-#EXTINF:0 tvg-id="TLNovelas.channels" tvg-name="TLNovelas" group-title="ASTRA ARGENTINA 1",TLNovelas
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bm/index.m3u8
-
-#EXTINF:0 tvg-id="TNT.channels" tvg-name="TNT" group-title="ASTRA ARGENTINA 1",TNT HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07d/index.m3u8
-
-#EXTINF:0 tvg-id="TNTNovelas.channels" tvg-name="TNT Novelas" group-title="ASTRA ARGENTINA 1",TNT Novelas HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07g/index.m3u8
-
-#EXTINF:0 tvg-id="TNTSeries.channels" tvg-name="TNT Series" group-title="ASTRA ARGENTINA 1",TNT Series HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07e/index.m3u8
-
-#EXTINF:0 tvg-id="TVE.channels" tvg-name="TVE" group-title="ASTRA ARGENTINA 1",TVE
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a072/index.m3u8
-
-#EXTINF:0 tvg-id="History.channels" tvg-name="History Channel" group-title="ASTRA ARGENTINA 1",The History Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05h/index.m3u8
-
-#EXTINF:0 tvg-id="USANetwork.channels" tvg-name="USA Network" group-title="ASTRA ARGENTINA 1",USA Network
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a023/index.m3u8
-
-#EXTINF:0 tvg-id="UniversalTV.channels" tvg-name="Universal TV" group-title="ASTRA ARGENTINA 1",Universal HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05j/index.m3u8
-
-#EXTINF:0 tvg-id="VTV.uy" tvg-name="VTV" group-title="ASTRA ARGENTINA 1",VTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0aa/index.m3u8
-
-#EXTINF:0 tvg-id="Volver.ar" tvg-name="Volver" group-title="ASTRA ARGENTINA 1",Volver
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a021/index.m3u8
-
-#EXTINF:0 tvg-id="Warner.channels" tvg-name="Warner Channel" group-title="ASTRA ARGENTINA 1",Warner Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05e/index.m3u8
-
-#EXTINF:0 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" group-title="ASTRA ARGENTINA 1",ciudad magazine
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02h/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="AandE HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" group-title="ASTRA ARGENTINA 2",A&E HD
-http://190.7.19.197:232/play/a00c/index.m3u8
-
-#EXTINF:-1 tvg-id="America 24.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png?raw=true" group-title="ASTRA ARGENTINA 2",A24
-http://190.7.19.197:232/play/a03z/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1263/CH_LOGO/60/40/0/0/5370906407919.png" group-title="ASTRA ARGENTINA 2",AIRE SANTA FE
-http://190.7.19.197:232/play/a08r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="ASTRA ARGENTINA 2",AM Sports
-http://190.7.19.197:232/play/a044/index.m3u8
-
-#EXTINF:-1 tvg-id="AMC HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true" group-title="ASTRA ARGENTINA 2",AMC
-http://190.7.19.197:232/play/a046/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/643/CH_LOGO/1920/1080/0/0/72827036071623.png" group-title="ASTRA ARGENTINA 2",ANIMAL PLÁNET
-http://190.7.19.197:232/play/a081/index.m3u8
-
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="ASTRA ARGENTINA 2",ARGENTINISIMA
-http://190.7.19.197:232/play/a01z/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyU_QZarytEVV2Zf03KmfDRZRLMND_tpnwg&s" group-title="ASTRA ARGENTINA 2",AUNAR
-http://190.7.19.197:232/play/a08g/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" group-title="ASTRA ARGENTINA 2",AXN HD
-http://190.7.19.197:232/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png" group-title="ASTRA ARGENTINA 2",Adult swim HD
-http://190.7.19.197:232/play/a01s/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7582OR45uswFne9WSFDuv8/fb447b4c508470938f346b4f5a05917a/02_America.png?fm=webp&q=80" group-title="ASTRA ARGENTINA 2",America TV HD
-http://190.7.19.197:232/play/a03b/index.m3u8
-
-#EXTINF:-1 tvg-id="Baby TV.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/160/160/0/0/2335855007695.png" group-title="ASTRA ARGENTINA 2",Baby TV
-http://190.7.19.197:232/play/a04i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo-Canal-Once-Salta.png" group-title="ASTRA ARGENTINA 2",CANAL 11 PARANA
-http://190.7.19.197:232/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="ASTRA ARGENTINA 2",CANAL 9 PARANA
-http://190.7.19.197:232/play/a0lo/index.m3u8
-
-#EXTINF:-1 tvg-id="CANAL E" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2562/CH_LOGO/160/160/0/0/11035030078196.png" group-title="ASTRA ARGENTINA 2",CANAL E
-http://190.7.19.197:232/play/a08t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/230.png" group-title="ASTRA ARGENTINA 2",CM
-http://190.7.19.197:232/play/a094/index.m3u8
-
-#EXTINF:-1 tvg-id="CNN Español.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="ASTRA ARGENTINA 2",CNN en Español
-http://190.7.19.197:232/play/a03j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/667/CH_LOGO/60/40/0/0/846786600758.png" group-title="ASTRA ARGENTINA 2",Canal a
-http://190.7.19.197:232/play/a015/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.caminandobaires.com.ar/wp-content/uploads/2017/10/Canal-de-la-Ciudad-LOGO.png" group-title="ASTRA ARGENTINA 2",Canal de la Ciudad
-http://190.7.19.197:232/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="ASTRA ARGENTINA 2",Cartoon Network HD
-http://190.7.19.197:232/play/a05s/index.m3u8
-
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/160/160/0/0/98997452071605.png" group-title="ASTRA ARGENTINA 2",Cine.AR
-http://190.7.19.197:232/play/a04b/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinecanal HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true" group-title="ASTRA ARGENTINA 2",Cinecanal HD
-http://190.7.19.197:232/play/a05y/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" group-title="ASTRA ARGENTINA 2",Cinemax
-http://190.7.19.197:232/play/a009/index.m3u8
-
-#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/160/160/0/0/917545880726.png" group-title="ASTRA ARGENTINA 2",Ciudad Magazine
-http://190.7.19.197:232/play/a04l/index.m3u8
-
-#EXTINF:-1 tvg-id="Comedy Central.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" group-title="ASTRA ARGENTINA 2",Comedy Central HD
-http://190.7.19.197:232/play/a01d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="ASTRA ARGENTINA 2",Cronica
-http://190.7.19.197:232/play/a041/index.m3u8
-
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="ASTRA ARGENTINA 2",DeporTV
-http://190.7.19.197:232/play/a05d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/17.png" group-title="ASTRA ARGENTINA 2",Discovery Channel HD
-http://190.7.19.197:232/play/a065/index.m3u8
-
-#EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSH&H.png?raw=true" group-title="ASTRA ARGENTINA 2",Discovery H&H HD
-http://190.7.19.197:232/play/a064/index.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Kids HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/160/160/0/0/43430600073531.png" group-title="ASTRA ARGENTINA 2",Discovery Kids
-http://190.7.19.197:232/play/a05i/index.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Science HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCNC.png?raw=true" group-title="ASTRA ARGENTINA 2",Discovery Science
-http://190.7.19.197:232/play/a04o/index.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Theater HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/160/160/0/0/72670030071181.png" group-title="ASTRA ARGENTINA 2",Discovery Theater HD
-http://190.7.19.197:232/play/a053/index.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Turbo HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCTR.png?raw=true" group-title="ASTRA ARGENTINA 2",Discovery Turbo
-http://190.7.19.197:232/play/a045/index.m3u8
-
-#EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DWRLD.png?raw=true" group-title="ASTRA ARGENTINA 2",Discovery World HD
-http://190.7.19.197:232/play/a055/index.m3u8
-
-#EXTINF:-1 tvg-id="Disney Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/50/CH_LOGO/160/160/0/0/77798092074367.png" group-title="ASTRA ARGENTINA 2",Disney Channel HD
-http://190.7.19.197:232/play/a04v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/756.png" group-title="ASTRA ARGENTINA 2",Disney Junior
-http://190.7.19.197:232/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-id="E!.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/312/CH_LOGO/160/160/0/0/477606810750.png" group-title="ASTRA ARGENTINA 2",E! Entertainment
-http://190.7.19.197:232/play/a00a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSLt6hRUX4fw0YfUUdHKjBz_moAzzwRHre_RJhF4HFyqsEKDD9ppxuRNkbK1m02rTWQRqPaZkLq7GoBZSylGJmIwDSvNaQhXntbhrbxK7uy9PeiA5ujNFllB1zrx6CSLXUywsjpm7hMgTSIvB2LMMeqx2Ytb3KV_Nqxm_v9aawEU3FMxuyCBC-Gpri/s392/eldestape-sinfino.png" group-title="ASTRA ARGENTINA 2",EL DESTAPE TV
-http://190.7.19.197:232/play/a00r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="ASTRA ARGENTINA 2",EL FOLKLORICO TV
-http://190.7.19.197:232/play/a024/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="ASTRA ARGENTINA 2",EL GARAGE
-http://190.7.19.197:232/play/a034/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/caPKMqYCXgAQhOjPaGkPy/0513c63b1f893c194180ee65e26b437b/109_Enlace.png?fm=webp&q=80" group-title="ASTRA ARGENTINA 2",ENLACE
-http://190.7.19.197:232/play/a020/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="ASTRA ARGENTINA 2",ESPN 2 HD
-http://190.7.19.197:232/play/a03m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ASTRA ARGENTINA 2",ESPN 3 HD
-http://190.7.19.197:232/play/a03o/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="ASTRA ARGENTINA 2",ESPN 4 HD
-http://190.7.19.197:232/play/a05t/index.m3u8
-
-#EXTINF:-1 tvg-id="350#Eternal Word TV Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/366/CH_LOGO/800/542/0/0/231984100764.png" group-title="ASTRA ARGENTINA 2",EWTN
-http://190.7.19.197:232/play/a01t/index.m3u8
-
-#EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="ASTRA ARGENTINA 2",El Canal  de las Estrellas
-http://190.7.19.197:232/play/a05o/index.m3u8
-
-#EXTINF:-1 tvg-id="El Gourmet HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/160/160/0/0/15069203073244.png" group-title="ASTRA ARGENTINA 2",El Gourmet
-http://190.7.19.197:232/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal 9.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="ASTRA ARGENTINA 2",El Nueve HD
-http://190.7.19.197:232/play/a03k/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="ASTRA ARGENTINA 2",El Trece HD
-http://190.7.19.197:232/play/a05a/index.m3u8
-
-#EXTINF:-1 tvg-id="Encuentro.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/160/160/0/0/1011215007477.png" group-title="ASTRA ARGENTINA 2",Encuentro
-http://190.7.19.197:232/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-id="Europa Europa HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png" group-title="ASTRA ARGENTINA 2",Europa Europa
-http://190.7.19.197:232/play/a01o/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1962.png" group-title="ASTRA ARGENTINA 2",Eventos HD
-http://190.7.19.197:232/play/a022/index.m3u8
-
-#EXTINF:-1 tvg-id="FX HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true" group-title="ASTRA ARGENTINA 2",FX HD
-http://190.7.19.197:232/play/a04z/index.m3u8
-
-#EXTINF:-1 tvg-id="Film and Arts HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/286/CH_LOGO/160/160/0/0/801518560763.png" group-title="ASTRA ARGENTINA 2",Film & Arts HD
-http://190.7.19.197:232/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="ASTRA ARGENTINA 2",Fox Sports 2 HD
-http://190.7.19.197:232/play/a03p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="ASTRA ARGENTINA 2",Fox Sports 3 HD
-http://190.7.19.197:232/play/a04x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/60/40/0/0/778293230765.png" group-title="ASTRA ARGENTINA 2",Galicia TV
-http://190.7.19.197:232/play/a01c/index.m3u8
-
-#EXTINF:-1 tvg-id="HGTV.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/160/160/0/0/28796844071531.png" group-title="ASTRA ARGENTINA 2",HGTV
-http://190.7.19.197:232/play/a04n/index.m3u8
-
-#EXTINF:-1 tvg-id="HTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/160/160/0/0/4926258407115.png" group-title="ASTRA ARGENTINA 2",HTV
-http://190.7.19.197:232/play/a01a/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASTRA ARGENTINA 2",History Channel
-http://190.7.19.197:232/play/a03h/index.m3u8
-
-#EXTINF:-1 tvg-id="History 2 HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HST2.png?raw=true" group-title="ASTRA ARGENTINA 2",History 2
-http://190.7.19.197:232/play/a019/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="ASTRA ARGENTINA 2",ID HD
-http://190.7.19.197:232/play/a083/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5l4mX6T5S99MoV24ss1vT2/3788b94142ed98b2e3b5fb200fc0acf4/15_informacion_periodistica.png?fm=webp&q=80" group-title="ASTRA ARGENTINA 2",IP
-http://190.7.19.197:232/play/a00o/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="ASTRA ARGENTINA 2",La Nacion TV
-http://190.7.19.197:232/play/a043/index.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LFTME.png?raw=true" group-title="ASTRA ARGENTINA 2",Lifetime
-http://190.7.19.197:232/play/a01l/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="ASTRA ARGENTINA 2",MTV
-http://190.7.19.197:232/play/a04q/index.m3u8
-
-#EXTINF:-1 tvg-id="Metro.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" group-title="ASTRA ARGENTINA 2",Metro
-http://190.7.19.197:232/play/a018/index.m3u8
-
-#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png" group-title="ASTRA ARGENTINA 2",NET TV
-http://190.7.19.197:232/play/a095/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/165_Nuevo_Tiempo.png" group-title="ASTRA ARGENTINA 2",NUEVO TIEMPO
-http://190.7.19.197:232/play/a01x/index.m3u8
-
-#EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NTGEO.png?raw=true" group-title="ASTRA ARGENTINA 2",Nat Geo HD
-http://190.7.19.197:232/play/a03s/index.m3u8
-
-#EXTINF:-1 tvg-id="Nick Jr..uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/160/160/0/0/61362740071226.png" group-title="ASTRA ARGENTINA 2",Nick Jr
-http://190.7.19.197:232/play/a01n/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png" group-title="ASTRA ARGENTINA 2",Nickelodeon
-http://190.7.19.197:232/play/a03e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MadD8WPFjcQeZ13wKAcMKz-D4GgKEi3fIQ&s" group-title="ASTRA ARGENTINA 2",O GLOBO
-http://190.7.19.197:232/play/a00w/index.m3u8
-
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/160/160/0/0/46888977071492.png" group-title="ASTRA ARGENTINA 2",PAKA PAKA
-http://190.7.19.197:232/play/a08e/index.m3u8
-
-#EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png" group-title="ASTRA ARGENTINA 2",PASIONES
-http://190.7.19.197:232/play/a01u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2910.png" group-title="ASTRA ARGENTINA 2",Paramount HD
-http://190.7.19.197:232/play/a052/index.m3u8
-
-#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="ASTRA ARGENTINA 2",Quiero Musica
-http://190.7.19.197:232/play/a04r/index.m3u8
-
-#EXTINF:-1 tvg-id="RAI Italia HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="ASTRA ARGENTINA 2",RAI Italia
-http://190.7.19.197:232/play/a01b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="ASTRA ARGENTINA 2",REMANSO TV
-http://190.7.19.197:232/play/a003/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="ASTRA ARGENTINA 2",RT en Español
-http://190.7.19.197:232/play/a01k/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal Rural.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/59/CH_LOGO/160/160/0/0/446602280711.png" group-title="ASTRA ARGENTINA 2",Rural
-http://190.7.19.197:232/play/a04j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/32.png" group-title="ASTRA ARGENTINA 2",Sony HD
-http://190.7.19.197:232/play/a01g/index.m3u8
-
-#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="ASTRA ARGENTINA 2",Sony Movies HD
-http://190.7.19.197:232/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-id="Space HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SPAC.png?raw=true" group-title="ASTRA ARGENTINA 2",Space HD
-http://190.7.19.197:232/play/a050/index.m3u8
-
-#EXTINF:-1 tvg-id="STAR Channel HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true" group-title="ASTRA ARGENTINA 2",Star Channel HD
-http://190.7.19.197:232/play/a05w/index.m3u8
-
-#EXTINF:-1 tvg-id="Studio Universal HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STUN.png?raw=true" group-title="ASTRA ARGENTINA 2",Studio Universal
-http://190.7.19.197:232/play/a049/index.m3u8
-
-#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1161/CH_LOGO/160/160/0/0/62114771072283.png" group-title="ASTRA ARGENTINA 2",T5
-http://190.7.19.197:232/play/a01v/index.m3u8
-
-#EXTINF:-1 tvg-id="TCM SD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="ASTRA ARGENTINA 2",TCM
-http://190.7.19.197:232/play/a014/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="ASTRA ARGENTINA 2",TEC TV
-http://190.7.19.197:232/play/a08c/index.m3u8
-
-#EXTINF:-1 group-title="ASTRA ARGENTINA 2",TLNovelas
-http://190.7.19.197:232/play/a01q/index.m3u8
-
-#EXTINF:-1 tvg-id="TN HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="ASTRA ARGENTINA 2",TN HD
-http://190.7.19.197:232/play/a03l/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTAR.png?raw=true" group-title="ASTRA ARGENTINA 2",TNT HD
-http://190.7.19.197:232/play/a060/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/114/CH_LOGO/160/160/0/0/98175226078201.png" group-title="ASTRA ARGENTINA 2",TNT Novelas HD
-http://190.7.19.197:232/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT Series HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" group-title="ASTRA ARGENTINA 2",TNT Series HD
-http://190.7.19.197:232/play/a088/index.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png" group-title="ASTRA ARGENTINA 2",TOONCAST
-http://190.7.19.197:232/play/a01w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" group-title="ASTRA ARGENTINA 2",TV Publica HD
-http://190.7.19.197:232/play/a03c/index.m3u8
-
-#EXTINF:-1 tvg-id="TVE.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/364/CH_LOGO/160/160/0/0/676402460759.png" group-title="ASTRA ARGENTINA 2",TVE
-http://190.7.19.197:232/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/319px-TeleSUR-Logo.svg.png" group-title="ASTRA ARGENTINA 2",TeleSUR
-http://190.7.19.197:232/play/a08p/index.m3u8
-
-#EXTINF:-1 tvg-id="UCL.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4001/CH_LOGO/160/160/0/0/62763250072541.png" group-title="ASTRA ARGENTINA 2",UCL
-http://190.7.19.197:232/play/a00z/index.m3u8
-
-#EXTINF:-1 tvg-id="USA.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SYFY.png?raw=true" group-title="ASTRA ARGENTINA 2",USA Network
-http://190.7.19.197:232/play/a04a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/327.png" group-title="ASTRA ARGENTINA 2",Universal HD
-http://190.7.19.197:232/play/a03u/index.m3u8
-
-#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="ASTRA ARGENTINA 2",Volver
-http://190.7.19.197:232/play/a048/index.m3u8
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="ASTRA ARGENTINA 2",Warner Channel HD
-http://190.7.19.197:232/play/a01h/index.m3u8
-
-
+ASTRA ARGENTINA 3
 
 #EXTINF:11 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="ASTRA ARGENTINA 3",26TV
 #EXTVLCOPT:network-caching=1000
@@ -1984,406 +1299,6 @@ http://138.59.227.20:8000/play/a07b/index.m3u8
 #EXTINF:0 tvg-id="Nanduti_TV.py" group-title="ASTRA ARGENTINA 4", anduti Tv
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a0eq/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="ASTRA ARGENTINA 5",Canal 26
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01r/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="Canal 9" group-title="ASTRA ARGENTINA 5",Canal 9
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bl/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E" group-title="ASTRA ARGENTINA 5",A&E
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05i/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="ASTRA ARGENTINA 5",A24
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01o/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-name="América Sports" group-title="ASTRA ARGENTINA 5",América Sports
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC" group-title="ASTRA ARGENTINA 5",AMC
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01z/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV" group-title="ASTRA ARGENTINA 5",América TV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a055/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN" group-title="ASTRA ARGENTINA 5",AXN
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05f/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" group-title="ASTRA ARGENTINA 5",BabyTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02e/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="ASTRA ARGENTINA 5",C5N
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01p/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="CanalA.ar" tvg-name="Canal á" group-title="ASTRA ARGENTINA 5",Canal á
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a09j/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-name="Canal de la Ciudad" group-title="ASTRA ARGENTINA 5",Canal de la Ciudad
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06e/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-name="Canal Luz" group-title="ASTRA ARGENTINA 5",Canal Luz
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bi/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network" group-title="ASTRA ARGENTINA 5",Cartoon Network
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a075/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="CineAr" group-title="ASTRA ARGENTINA 5",CineAr
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a024/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" group-title="ASTRA ARGENTINA 5",Cinecanal
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07b/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax" group-title="ASTRA ARGENTINA 5",Cinemax
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" group-title="ASTRA ARGENTINA 5",Ciudad Magazine
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02h/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Español" group-title="ASTRA ARGENTINA 5",CNN en Español
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a054/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central" group-title="ASTRA ARGENTINA 5",Comedy Central
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02x/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica" group-title="ASTRA ARGENTINA 5",Cronica
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="ASTRA ARGENTINA 5",DeporTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06h/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel" group-title="ASTRA ARGENTINA 5",Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07i/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-name="Discovery Home & Health" group-title="ASTRA ARGENTINA 5",Discovery Home & Health
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07h/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids" group-title="ASTRA ARGENTINA 5",Discovery Kids
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06t/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science" group-title="ASTRA ARGENTINA 5",Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02k/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater" group-title="ASTRA ARGENTINA 5",Discovery Theater
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02z/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us" tvg-name="Discovery Turbo" group-title="ASTRA ARGENTINA 5",Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01w/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="ASTRA ARGENTINA 5",Discovery World
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a031/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel" group-title="ASTRA ARGENTINA 5",Disney Channel
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02r/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="DisneyJuniorLatinAmerica.us" tvg-name="Disney Junior" group-title="ASTRA ARGENTINA 5",Disney Junior
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04y/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E!" group-title="ASTRA ARGENTINA 5",E!
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a050/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" group-title="ASTRA ARGENTINA 5",Las Estrellas
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06z/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="ASTRA ARGENTINA 5",El Gourmet
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06w/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="Canal 9" group-title="ASTRA ARGENTINA 5",Canal 9 (El Nueve)
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04h/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="Canal 13" group-title="ASTRA ARGENTINA 5",Canal 13
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" group-title="ASTRA ARGENTINA 5",Encuentro
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01m/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Enlace.us" tvg-name="Enlace" group-title="ASTRA ARGENTINA 5",Enlace
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bh/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN" group-title="ASTRA ARGENTINA 5",ESPN
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05a/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2" group-title="ASTRA ARGENTINA 5",ESPN 2
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a059/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3" group-title="ASTRA ARGENTINA 5",ESPN 3
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05b/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ESPN4.ar" tvg-name="ESPN 4" group-title="ASTRA ARGENTINA 5",ESPN 4
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a076/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" group-title="ASTRA ARGENTINA 5",ESPN Premium
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a078/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="ASTRA ARGENTINA 5",Europa Europa
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="film&arts" group-title="ASTRA ARGENTINA 5",film&arts
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a030/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX Sports 2" group-title="ASTRA ARGENTINA 5",FOX Sports 2
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05c/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us" tvg-name="FOX Sports 3" group-title="ASTRA ARGENTINA 5",FOX Sports 3
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02t/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX Sports HD" group-title="ASTRA ARGENTINA 5",FOX Sports HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07j/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX" group-title="ASTRA ARGENTINA 5",FX
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-name="Galicia TV" group-title="ASTRA ARGENTINA 5",Galicia TV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" group-title="ASTRA ARGENTINA 5",HBO
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06o/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2" group-title="ASTRA ARGENTINA 5",HBO 2
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family" group-title="ASTRA ARGENTINA 5",HBO Family
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06r/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi" group-title="ASTRA ARGENTINA 5",HBO Mundi
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02a/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO Plus (Panamericano HD)" group-title="ASTRA ARGENTINA 5",HBO Plus (Panamericano HD)
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06p/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature" group-title="ASTRA ARGENTINA 5",HBO Signature
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02c/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme" group-title="ASTRA ARGENTINA 5",HBO Xtreme
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02b/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-name="HGTV" group-title="ASTRA ARGENTINA 5",HGTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02j/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2" group-title="ASTRA ARGENTINA 5",History 2
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0ab/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History" group-title="ASTRA ARGENTINA 5",History
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a051/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" group-title="ASTRA ARGENTINA 5",HTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02o/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" group-title="ASTRA ARGENTINA 5",LN+
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="LaTele.ve" tvg-name="La Tele" group-title="ASTRA ARGENTINA 5",La Tele
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0a8/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime" group-title="ASTRA ARGENTINA 5",Lifetime
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06n/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro" group-title="ASTRA ARGENTINA 5",Metro
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02g/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV" group-title="ASTRA ARGENTINA 5",MTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02m/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="MTV00s.uk" tvg-name="MTV 00s" group-title="ASTRA ARGENTINA 5",MTV 00s
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a053/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarChannelHD.ar" tvg-name="Star Channel HD" group-title="ASTRA ARGENTINA 5",Star Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05g/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr." group-title="ASTRA ARGENTINA 5",Nick Jr.
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06u/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nick" group-title="ASTRA ARGENTINA 5",Nick
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a04z/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="NuevoTiempo.cl" tvg-name="Nuevo Tiempo" group-title="ASTRA ARGENTINA 5",Nuevo Tiempo
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bj/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="ASTRA ARGENTINA 5",Pakapaka
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a01n/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="Paramount Network" group-title="ASTRA ARGENTINA 5",Paramount Network
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02y/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-name="Quiero" group-title="ASTRA ARGENTINA 5",Quiero Música en mi Idioma
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02n/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="RaiItaliaAmerica.it" tvg-name="Rai Italia" group-title="ASTRA ARGENTINA 5",Rai Italia
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02p/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="Russia Today HD" group-title="ASTRA ARGENTINA 5",RT en Español
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0ac/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="CanalRural.ar" tvg-name="Canal Rural" group-title="ASTRA ARGENTINA 5",Canal Rural
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02f/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonyHD.ar" tvg-name="Sony HD" group-title="ASTRA ARGENTINA 5",Sony HD
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05d/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies" group-title="ASTRA ARGENTINA 5",Sony Movies
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05k/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="SpaceLatinAmerica.us" tvg-name="Space" group-title="ASTRA ARGENTINA 5",Space
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02w/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarChannelHD.ar" tvg-name="Star Channel HD" group-title="ASTRA ARGENTINA 5",Star Channel HD (2)
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a079/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-name="Studio Universal" group-title="ASTRA ARGENTINA 5",Studio Universal
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a022/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TCMLatinAmerica.us" tvg-name="TCM" group-title="ASTRA ARGENTINA 5",TCM
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a020/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="ASTRA ARGENTINA 5",Telefe
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a06c/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History" group-title="ASTRA ARGENTINA 5",History (2)
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05h/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TLNovelas" group-title="ASTRA ARGENTINA 5",TLNovelas
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bm/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" group-title="ASTRA ARGENTINA 5",TN
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a058/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TNTLatinAmerica.us" tvg-name="TNT" group-title="ASTRA ARGENTINA 5",TNT
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07d/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="ASTRA ARGENTINA 5",TNT Novelas
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07g/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TNTSeries.us" tvg-name="TNT Series" group-title="ASTRA ARGENTINA 5",TNT Series
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a07e/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" group-title="ASTRA ARGENTINA 5",TNT Sports
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="Televisión Pública" group-title="ASTRA ARGENTINA 5",Televisión Pública
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a056/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TVEInternacionalEuropa.es" tvg-name="TVE" group-title="ASTRA ARGENTINA 5",TVE Internacional
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a072/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="ASTRA ARGENTINA 5",TyC Sports
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a02s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us" tvg-name="Universal TV" group-title="ASTRA ARGENTINA 5",Universal TV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05j/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-name="USA Network" group-title="ASTRA ARGENTINA 5",USA Network
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a023/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" group-title="ASTRA ARGENTINA 5",Volver
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a021/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="VTV.uy" tvg-name="VTV" group-title="ASTRA ARGENTINA 5",VTV
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a0aa/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="WarnerChannelLatinAmerica.us" tvg-name="Warner Channel" group-title="ASTRA ARGENTINA 5",Warner Channel
-#EXTVLCOPT:network-caching=1000
-http://181.13.252.102:8000/play/a05e/index.m3u8?hls
-
 
 
 
